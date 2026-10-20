@@ -1,0 +1,225 @@
+project_id,stage,firm_raw,rank
+chart-001,application,Arrowstreet,3
+chart-001,final,Arrowstreet,3
+chart-001,application,"Finegold Alexander Architects, Inc.",2
+chart-001,final,"Finegold Alexander Architects, Inc.",1
+chart-001,application,HMFH Architects,
+chart-001,final,"Kaestle Boos Associates, Inc.",2
+chart-001,application,"Kaestle Boos Associates, Inc.",1
+chart-001,application,Turowski 2,
+chart-002,application,Arrowstreet,
+chart-002,final,Lamoureux Pagano Associates Architects,1
+chart-002,application,"Finegold Alexander Architects, Inc.",
+chart-002,final,Miller Dyer Spears Inc.,2
+chart-002,application,Lamoureux Pagano Associates Architects,1
+chart-002,final,Raymond Design Associates,3
+chart-002,application,Miller Dyer Spears Inc.,2
+chart-002,application,"Raymond Design Associates, Inc.",3
+chart-004,application,"Kaestle Boos Associates, Inc.",
+chart-004,final,"Kaestle Boos Associates, Inc.",1
+chart-004,application,Mount Vernon Group Architects in association with Moody Nolan,
+chart-004,final,Mount Vernon Group Architects in association with Moody Nolan,3
+chart-004,application,"Perkins & Will, Inc.",
+chart-004,final,"Perkins & Will, Inc.",2
+chart-005,application,Arrowstreet,
+chart-005,final,Arrowstreet,2
+chart-005,application,Dore + Whittier,
+chart-005,final,Dore + Whittier,3
+chart-005,application,HMFH Architects,
+chart-005,final,HMFH Architects,1
+chart-007,application,"JCJ Architecture, PC",1
+chart-007,final,"JCJ Architecture, PC",2
+chart-007,application,Miller Dyer Spears Inc.,
+chart-007,final,Mount Vernon Group Architects,1
+chart-007,application,"Mount Vernon Group Architects, Inc.",2
+chart-007,application,Saam Architecture,
+chart-007,application,S/L/A/M Collaborative,3
+chart-007,application,Tecton Architects,
+chart-008,application,"JCJ Architecture, PC",1
+chart-008,final,"JCJ Architecture, PC",1
+chart-008,application,LaVallee Brensigner,2
+chart-008,final,LaVallee Brensinger,3
+chart-008,application,Maryann Thompson Architects,2
+chart-008,final,Maryann Thompson Architects,2
+chart-009,application,DiNisco Design,1
+chart-009,application,S/L/A/M Collaborative,3
+chart-009,application,Tecton Architects,2
+chart-010,application,"Ai3 Architects, LLC",1
+chart-010,final,"AI3 Architects, LLC",1
+chart-010,application,Arrowstreet,3
+chart-010,final,"Tappe Architects, Inc.",2
+chart-010,application,Flansburg Architects,
+chart-010,application,"JCJ Architecture, PC",
+chart-010,application,"Mount Vernon Group Architects, Inc.",
+chart-010,application,"Tappe Architects, Inc.",2
+chart-011,application,"Jonathan Levi Architects, LLC",
+chart-011,final,Miller Dyer Spears Inc.,2
+chart-011,application,"Machado and Silvetti Associates, LLC",
+chart-011,final,Perkins Eastman,1
+chart-011,application,Miller Dyer Spears Inc.,1
+chart-011,final,"William Rawn Associations, Architects, Inc.",3
+chart-011,application,Perkins Eastman,2
+chart-011,application,TSKP Studio,
+chart-011,application,"William Rawn Associations, Architects, Inc.",2
+chart-012,application,"Ai3 Architects, LLC",1
+chart-012,final,"AI3 Architects, LLC",2
+chart-012,application,"DLR Group, Inc.",
+chart-012,final,"Perkins & Will, Inc.",3
+chart-012,application,"Perkins & Will, Inc.",2
+chart-012,final,SMMA,1
+chart-012,application,SMMA,1
+chart-013,application,Icon Architecture,
+chart-013,final,Miller Dyer Spears Inc.,2
+chart-013,application,Miller Dyer Spears Inc.,2
+chart-013,final,"Raymond Design Associates, Inc.",1
+chart-013,application,"Raymond Design Associates, Inc.",1
+chart-013,final,S/L/A/M Collaborative,3
+chart-013,application,S/L/A/M Collaborative,3
+chart-014,application,Flansburg Architects,1
+chart-014,final,Flansburg Architects,1
+chart-014,application,LaVallee Brensigner,2
+chart-014,final,LaVallee Brensinger,3
+chart-014,application,Maryann Thompson Architects,2
+chart-014,final,Maryann Thompson Architects,2
+chart-014,application,"Raymond Design Associates, Inc.",
+chart-014,application,TSKP Studio,
+chart-015,application,"Arrowstreet, Inc.",1
+chart-015,final,"Arrowstreet, Inc.",1
+chart-015,application,"DLR Group, Inc.",
+chart-015,final,S/L/A/M Collaborative,2
+chart-015,application,"Kaestle Boos Associates, Inc.",
+chart-015,application,"Raymond Design Associates, Inc.",
+chart-015,application,Saam Architecture,3
+chart-015,application,S/L/A/M Collaborative,2
+chart-015,application,Tecton Architects,
+chart-015,application,"Turowski2 Architecture, Inc.",
+chart-016,application,"Arrowstreet, Inc.",3
+chart-016,final,"Arrowstreet, Inc.",
+chart-016,application,"Machado and Silvetti Associates, LLC",4
+chart-016,final,"Machado and Silvetti Associates, LLC",2
+chart-016,application,S/L/A/M Collaborative,2
+chart-016,final,S/L/A/M Collaborative,3
+chart-016,application,"Turowski2 Architecture, Inc.",1
+chart-016,final,"Turowski2 Architecture, Inc.",1
+chart-017,application,HMFH Architects,1
+chart-017,final,HMFH Architects,1
+chart-017,application,"JCJ Architecture, PC",
+chart-017,final,"Kaestle Boos Associates, Inc.",2
+chart-017,application,"Kaestle Boos Associates, Inc.",2
+chart-017,application,Miller Dyer Spears Inc.,
+chart-017,application,"Tappe Architects, Inc.",
+chart-018,application,"Finegold Alexander Architects, Inc.",
+chart-018,final,Miller Dyer Spears Inc.,2
+chart-018,application,"Jonathan Levi Architects, LLC",
+chart-018,final,Saam Architecture,3
+chart-018,application,"Machado and Silvetti Associates, LLC",
+chart-018,final,"Tappe Architects, Inc.",1
+chart-018,application,Miller Dyer Spears Inc.,2
+chart-018,application,Moody Nolan,3
+chart-018,application,Saam Architecture,2
+chart-018,application,"Tappe Architects, Inc.",1
+chart-019,application,Dore + Whittier,1
+chart-019,final,Dore + Whittier,2
+chart-019,application,"Finegold Alexander Architects, Inc.",
+chart-019,final,"JCJ Architecture, PC",3
+chart-019,application,"JCJ Architecture, PC",2
+chart-019,final,LaVallee Brensigner Architects,1
+chart-019,application,LaVallee Brensigner Architects,3
+chart-019,application,Maryann Thompson Architects,
+chart-019,application,Saam Architecture,
+chart-019,application,"Tappe Architects, Inc.",
+chart-019,application,"Tecton Architects, PC",
+chart-019,application,TSKP Studio,
+chart-020,application,"Arrowstreet, Inc.",2
+chart-020,final,"Arrowstreet, Inc.",1
+chart-020,application,"CBT/Childs Bertman Tseckares, Inc.",3
+chart-020,final,"CBT/Childs Bertman Tseckares, Inc.",2
+chart-020,application,"Jonathan Levi Architects, LLC",
+chart-020,final,"Machado and Silvetti Associates, LLC",3
+chart-020,application,"Kaestle Boos Associates, Inc.",
+chart-020,application,"Machado and Silvetti Associates, LLC",1
+chart-020,application,Saam Architecture,
+chart-020,application,"Sasaki Architects, PC",
+chart-020,application,"Utile, Inc.",disqualified
+chart-021,application,"Ai3 Architects, LLC",2
+chart-021,final,"AI3 Architects, LLC",2
+chart-021,application,"Finegold Alexander Architects, Inc.",
+chart-021,final,"Mount Vernon Group Architects, Inc.",3
+chart-021,application,"Jonathan Levi Architects, LLC",
+chart-021,final,Perkins Eastman,1
+chart-021,application,"Mount Vernon Group Architects, Inc.",3
+chart-021,application,"Perkins & Will, Inc.",
+chart-021,application,Perkins Eastman,1
+chart-022,application,"Ai3 Architects, LLC",1
+chart-022,final,"AI3 Architects, LLC",3
+chart-022,application,"Kaestle Boos Associates, Inc.",2
+chart-022,final,"Kaestle Boos Associates, Inc.",2
+chart-022,application,Lamoureux Pagano Associates Architects,1
+chart-022,final,Lamoureux Pagano Associates Architects,1
+chart-022,application,"Raymond Design Associates, Inc.",
+chart-022,application,S/L/A/M Collaborative,
+chart-023,application,Dore + Whittier,1
+chart-024,application,Dore + Whittier,1
+chart-024,final,Dore + Whittier,1
+chart-024,application,"Finegold Alexander Architects, Inc.",3
+chart-024,final,"Finegold Alexander Architects, Inc.",2
+chart-024,application,S/L/A/M Collaborative,
+chart-024,final,SMMA,3
+chart-024,application,SMMA,2
+chart-025,application,HMFH Architects,1
+chart-025,final,HMFH Architects,1
+chart-025,application,"Kaestle Boos Associates, Inc.",2
+chart-025,final,"Kaestle Boos Associates, Inc.",
+chart-025,application,Mount Vernon Group Architects,
+chart-025,application,"Perkins & Will, Inc.",3
+chart-026,application,"DLR Group, Inc.",
+chart-026,final,"Finegold Alexander Architects, Inc.",1
+chart-026,application,"Finegold Alexander Architects, Inc.",2
+chart-026,final,Miller Dyer Spears Inc.,2
+chart-026,application,"Jonathan Levi Architects, LLC",
+chart-026,final,Raymond Design Associates,3
+chart-026,application,Miller Dyer Spears Inc.,1
+chart-026,application,"Raymond Design Associates, Inc.",3
+chart-026,application,Saam Architecture,
+chart-026,application,S/L/A/M Collaborative,
+chart-027,application,"Jonathan Levi Architects, LLC",2
+chart-027,final,"Kaestle Boos Associates, Inc.",2
+chart-027,application,"Kaestle Boos Associates, Inc.",1
+chart-027,final,SMMA,1
+chart-027,application,Leers Weinsapfel Associates,
+chart-027,application,S/L/A/M Collaborative,3
+chart-027,application,SMMA,1
+chart-028,application,"DLR Group, Inc.",
+chart-028,final,"Drummey Rosane Anderson, Inc.",3
+chart-028,application,"Drummey Rosane Anderson, Inc.",2
+chart-028,final,"Machado Silvetti Associates, LLC",2
+chart-028,application,Jones Whitsett Associates,
+chart-028,final,"Mount Vernon Group Architects, Inc.",
+chart-028,application,"Machado Silvetti Associates, LLC",3
+chart-028,final,TSKP Studio,1
+chart-028,application,"Mount Vernon Group Architects, Inc.",4
+chart-028,application,S/L/A/M Collaborative,disqualified
+chart-028,application,TSKP Studio,1
+chart-029,application,"Ai3 Architects, LLC",1
+chart-029,final,"Ai3 Architects, LLC",1
+chart-029,application,"CBT/Childs Bertman Tseckares, Inc.",3
+chart-029,final,"CBT/Childs Bertman Tseckares, Inc.",3
+chart-029,application,"Raymond Design Associates, Inc.",2
+chart-029,final,"Raymond Design Associates, Inc.",2
+chart-029,application,S/L/A/M Collaborative,
+chart-030,application,"Ai3 Architects, LLC",1
+chart-030,final,"Ai3 Architects, LLC",1
+chart-030,application,"DLR Group, Inc.",3
+chart-030,final,"DLR Group, Inc.",2
+chart-030,application,"Finegold Alexander Architects, Inc.",
+chart-030,final,"Jonathan Levi Architects, LLC",3
+chart-030,application,"JCJ Architecture, PC",
+chart-030,application,"Jonathan Levi Architects, LLC",2
+chart-030,application,Saam Architecture,
+chart-030,application,S/L/A/M Collaborative,
+chart-031,application,"Arrowstreet, Inc.",1
+chart-031,final,"Arrowstreet, Inc.",
+chart-031,application,"DLR Group, Inc.",1
+chart-031,final,"DLR Group, Inc.",
+chart-031,application,"Jonathan Levi Architects, LLC",2
+chart-031,application,S/L/A/M Collaborative,3

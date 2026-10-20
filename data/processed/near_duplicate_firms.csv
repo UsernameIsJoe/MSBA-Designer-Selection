@@ -1,0 +1,12 @@
+firm_a,firm_b,token_jaccard,action
+"Symmes Maini & McKee Associates, Inc.","Symmes Maini McKee Associates, Inc.",0.8,not_merged
+Miller Dyer Spears Inc.,Miller Dyer Spears Inc./Sasaki,0.75,not_merged
+"Taylor & Burns, Inc.",Taylor & Burns Architects,0.75,not_merged
+Perkins Eastman,Perkins Eastman DPC,0.667,not_merged
+LaVallee Brensinger Architects,LaVallee Brensinger,0.667,not_merged
+"Lamoureaux, Pagano & Associates, Inc.",Lamoureaux Pagano Associates Architects,0.6,not_merged
+"Caolo & Bieniek Associates, Inc.","Caolo Bieniek Associates, Inc.",0.75,not_merged
+CBT/Childs Bertman Tseckares Inc.,"CBT/Childs Bertram Tseckares, Inc.",0.6,not_merged
+"William Rawn Associates, Architects, Inc.","William Rawn Associates Architects, Inc. w/ Arrowstreet",0.667,not_merged
+"William Rawn Associates, Architects, Inc.","William Rawn Associations, Architects, Inc.",0.6,not_merged
+"Machado and Silvetti Associates, LLC","Machado Silvetti Associates, LLC",0.75,not_merged

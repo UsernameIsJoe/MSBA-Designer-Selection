@@ -1,0 +1,175 @@
+firm_raw,firm_id,canonical_key,match_method,match_confidence,joint_venture
+"Drummey Rosane Anderson, Inc",f_9b0a94bec8,drummey rosane anderson,normalized,high,False
+"Drummey Rosane Anderson, Inc.",f_9b0a94bec8,drummey rosane anderson,normalized,high,False
+SMMA,f_e47b019976,symmes maini and mckee associates,normalized,high,False
+Symmes Maini & McKee Associates,f_e47b019976,symmes maini and mckee associates,normalized,high,False
+"Symmes Maini & McKee Associates, Inc.",f_e47b019976,symmes maini and mckee associates,normalized,high,False
+"Symmes Maini & McKee Associates, Inc. (SMMA)",f_e47b019976,symmes maini and mckee associates,normalized,high,False
+Symmes Maini & Mckee Associates,f_e47b019976,symmes maini and mckee associates,normalized,high,False
+HMFH Architects,f_e3a453551d,hmfh architects,normalized,high,False
+"HMFH Architects, Inc.",f_e3a453551d,hmfh architects,normalized,high,False
+"Architecture Involution, LLC",f_8dfd8390db,architecture involution,normalized,high,False
+Flansburgh Architect,f_998e5c2e75,flansburgh associates,normalized,high,False
+Flansburgh Architects,f_998e5c2e75,flansburgh associates,normalized,high,False
+Flansburgh Associates,f_998e5c2e75,flansburgh associates,normalized,high,False
+"Flansburgh Associates, Inc.",f_998e5c2e75,flansburgh associates,normalized,high,False
+"Design Partnership of Cambridge, Inc.",f_20fb49050b,design partnership of cambridge,reviewed_alias,high,False
+"Miller Dyer Spears Architects, Inc",f_f3754461b4,miller dyer spears,normalized,high,False
+"Miller Dyer Spears Architects, Inc.",f_f3754461b4,miller dyer spears,normalized,high,False
+Miller Dyer Spears Inc.,f_f3754461b4,miller dyer spears,normalized,high,False
+"Miller Dyer Spears, Inc",f_f3754461b4,miller dyer spears,normalized,high,False
+"Miller Dyer Spears, Inc.",f_f3754461b4,miller dyer spears,normalized,high,False
+Kaestle Boos Associates,f_5bb0de6098,kaestle boos associates,normalized,high,False
+"Kaestle Boos Associates, Inc.",f_5bb0de6098,kaestle boos associates,normalized,high,False
+"CSS Architects, Inc.",f_f7c5257a57,css architects,normalized,high,False
+"Lamoureux Pagano & Associates, Inc.",f_db80c70a7f,lamoureux pagano,reviewed_alias,high,False
+"Lamoureux Pagano & Associates, Inc. (as determined at the Feb. 28, 2012 DSP meeting)",f_db80c70a7f,lamoureux pagano,reviewed_alias,high,False
+Lamoureux Pagano Associates,f_db80c70a7f,lamoureux pagano,reviewed_alias,high,False
+Lamoureux Pagano Associates Architects,f_db80c70a7f,lamoureux pagano,reviewed_alias,high,False
+Lamoureux Pagano Associates | Architects,f_db80c70a7f,lamoureux pagano,reviewed_alias,high,False
+"Lamoureux Pagano Associates | Architects, Inc.",f_db80c70a7f,lamoureux pagano,reviewed_alias,high,False
+"Lamoureux Pagano Associates, Inc.",f_db80c70a7f,lamoureux pagano,reviewed_alias,high,False
+DiNisco Design,f_30d6babd99,dinisco design,reviewed_alias,medium,False
+DiNisco Design Inc.,f_30d6babd99,dinisco design,reviewed_alias,medium,False
+DiNisco Design Partnership Limited,f_30d6babd99,dinisco design,reviewed_alias,medium,False
+"DiNisco Design Partnership, Limited",f_30d6babd99,dinisco design,reviewed_alias,medium,False
+"DiNisco Design Partnership, Ltd.",f_30d6babd99,dinisco design,reviewed_alias,medium,False
+"DiNisco Design, Inc.",f_30d6babd99,dinisco design,reviewed_alias,medium,False
+"Tappe Architects, Inc.",f_5d25998af5,tappe,reviewed_alias,high,False
+"Tappe Associates, Inc.",f_5d25998af5,tappe,reviewed_alias,high,False
+"Tappè Associates, Inc.",f_5d25998af5,tappe,reviewed_alias,high,False
+"Tappé Architects, Inc.",f_5d25998af5,tappe,reviewed_alias,high,False
+"Tappé Associates, Inc.",f_5d25998af5,tappe,reviewed_alias,high,False
+Mount Vernon Group Architects,f_a4ffc25c6a,mount vernon group,reviewed_alias,high,False
+"Mount Vernon Group Architects, Inc.",f_a4ffc25c6a,mount vernon group,reviewed_alias,high,False
+"Mount Vernon Group Architects, Inc. (as determined at the September 18, 2012 DSP meeting)",f_a4ffc25c6a,mount vernon group,reviewed_alias,high,False
+"Mount Vernon Group, Inc.",f_a4ffc25c6a,mount vernon group,reviewed_alias,high,False
+"OMR Architects, Inc.",f_2cd0b03421,office michael rosenfeld,normalized,high,False
+"The Office of Michael Rosenfeld, Inc.",f_2cd0b03421,office michael rosenfeld,normalized,high,False
+"Turowski2 Architecture, Inc.",f_7b5bae9929,turowski2 architecture,normalized,high,False
+"Knight Bagge & Anderson, Inc.",f_4cc259c11b,knight bagge and anderson,normalized,high,False
+"Knight, Bagge & Anderson, Inc.",f_4cc259c11b,knight bagge and anderson,normalized,high,False
+"Dore & Whittier Architects, Inc.",f_0a77379ca5,dore and whittier,reviewed_alias,high,False
+"Dore & Whittier Associates, Inc.",f_0a77379ca5,dore and whittier,reviewed_alias,high,False
+Dore + Whittier,f_0a77379ca5,dore and whittier,reviewed_alias,high,False
+"Dore + Whittier Architects, Inc",f_0a77379ca5,dore and whittier,reviewed_alias,high,False
+"Dore and Whittier Architects, Inc.",f_0a77379ca5,dore and whittier,reviewed_alias,high,False
+Raymond Design Associates,f_34bdcec244,raymond design,reviewed_alias,high,False
+"Raymond Design Associates, Inc.",f_34bdcec244,raymond design,reviewed_alias,high,False
+Finegold Alexander Architects,f_470ec1ec17,finegold alexander,reviewed_alias,high,False
+"Finegold Alexander Architects, Inc.",f_470ec1ec17,finegold alexander,reviewed_alias,high,False
+Finegold Alexander and Associates Inc.,f_470ec1ec17,finegold alexander,reviewed_alias,high,False
+"Finegold Alexander and Associates, Inc.",f_470ec1ec17,finegold alexander,reviewed_alias,high,False
+"Russo Barr Associates, Inc.",f_003cfb34ed,russo barr associates,normalized,high,False
+"Gale Associates, Inc.",f_973d561909,gale associates,normalized,high,False
+"CBI Consulting, Inc.",f_bdfa89263d,cbi consulting,normalized,high,False
+"LPBA Architects, Inc.",f_0e63d7acd5,lpba architects,normalized,high,False
+"JCJ Architects, PC",f_fdca913eb7,jcj,reviewed_alias,high,False
+"JCJ Architecture + Interiors, PC",f_fdca913eb7,jcj,reviewed_alias,high,False
+JCJ Architecture PC,f_fdca913eb7,jcj,reviewed_alias,high,False
+"JCJ Architecture and Interiors, PC",f_fdca913eb7,jcj,reviewed_alias,high,False
+"JCJ Architecture, PC",f_fdca913eb7,jcj,reviewed_alias,high,False
+"Tessier Associates, Inc.",f_6662a0d9c8,tessier associates,normalized,high,False
+"Flansburgh Associates, Inc. and Jonathan Levi Architects LLC (tied)",f_ba9cfe3236,flansburgh associates and jonathan levi architects,normalized,high,False
+"DiNisco Design Partnership Limited and HMFH Architects, Inc. (tied)",f_9d3f5bebc5,dinisco design partnership and hmfh architects,normalized,high,False
+"TLCR Associates, Inc.",f_6da4268bd0,tlcr associates,normalized,high,False
+"AI3 Architects, LLC",f_282401311f,ai3 architects,normalized,high,False
+Ai3 Architects LLC,f_282401311f,ai3 architects,normalized,high,False
+"Ai3 Architects, LLC",f_282401311f,ai3 architects,normalized,high,False
+"CGKV Architects, Inc.",f_3bd8197a29,cgkv architects,normalized,high,False
+"Taylor & Burns, Inc.",f_26c0d80ab5,taylor and burns,normalized,high,False
+"Margo Jones Architects, Inc.",f_5689d3a3d2,margo jones architects,normalized,high,False
+"Fletcher Thompson Architecture Engineering, LLC",f_769b4b98fb,fletcher thompson architecture engineering,normalized,high,False
+S/L/A/M Collaborative,f_233c290340,slam,reviewed_alias,high,False
+The S/L/A/M Collaborative,f_233c290340,slam,reviewed_alias,high,False
+"The SLAM Collaborative, Inc.",f_233c290340,slam,reviewed_alias,high,False
+Maryann Thompson Architects,f_3232600d7d,maryann thompson architects,normalized,high,False
+"ArrowStreet, Inc.",f_e546323383,arrowstreet,normalized,high,False
+Arrowstreet,f_e546323383,arrowstreet,normalized,high,False
+Arrowstreet Inc.,f_e546323383,arrowstreet,normalized,high,False
+"Arrowstreet, Inc.",f_e546323383,arrowstreet,normalized,high,False
+"Arrowstreet, Inc..",f_e546323383,arrowstreet,normalized,high,False
+Jonathan Levi Architects,f_87097bdfc4,jonathan levi,reviewed_alias,medium,False
+Jonathan Levi Architects LLC,f_87097bdfc4,jonathan levi,reviewed_alias,medium,False
+"Jonathan Levi Architects, LLC",f_87097bdfc4,jonathan levi,reviewed_alias,medium,False
+Perkins Eastman,f_5e68feabfd,perkins eastman,normalized,high,False
+"Symmes Maini McKee Associates, Inc.",f_e2de53261e,symmes maini mckee associates,normalized,high,False
+LaVallee Brensigner Architects,f_b7c042c2cf,lavallee brensinger architects,normalized,high,False
+LaVallee Brensinger Architects,f_b7c042c2cf,lavallee brensinger architects,normalized,high,False
+Lavallee Brensinger Architects,f_b7c042c2cf,lavallee brensinger architects,normalized,high,False
+"ARCADD, Inc.",f_d28e0aa7e2,arcadd,normalized,high,False
+"Mount Vernon Group Architects, Inc. and Raymond Design Associates, Inc. (tied)",f_0f794d1284,mount vernon group architects and raymond design associates,normalized,high,False
+"Lamoureaux, Pagano & Associates, Inc.",f_8de622fc91,lamoureaux pagano and associates,normalized,high,False
+ARC/Architectural Resources Cambridge,f_608f279e44,arc architectural resources cambridge,normalized,high,False
+"ARC/Architectural Resources Cambridge, Inc.",f_608f279e44,arc architectural resources cambridge,normalized,high,False
+Caolo & Bieniek Associates,f_e2e2819afa,caolo and bieniek associates,normalized,high,False
+"Caolo & Bieniek Associates, Inc.",f_e2e2819afa,caolo and bieniek associates,normalized,high,False
+Tetra Tech Architects & Engineers,f_b860454ab6,tetra tech architects and engineers,normalized,high,False
+"Leers Weinzapfel Associates Architects, Inc.",f_3228a50923,leers weinzapfel associates architects,normalized,high,False
+"Habeeb & Associates Architects, Inc.",f_12bcfb854a,habeeb and associates architects,normalized,high,False
+Perkins & Will,f_dac2822d39,perkins and will,normalized,high,False
+"Perkins & Will Architects, Inc.",f_dac2822d39,perkins and will,normalized,high,False
+"Perkins & Will Architecture, Inc.",f_dac2822d39,perkins and will,normalized,high,False
+"Perkins & Will, Inc.",f_dac2822d39,perkins and will,normalized,high,False
+Perkins + Will,f_dac2822d39,perkins and will,normalized,high,False
+Perkins+Will,f_dac2822d39,perkins and will,normalized,high,False
+Studio G Architects,f_7266ae3e0f,studio g,reviewed_alias,high,False
+"Studio G Architects, Inc",f_7266ae3e0f,studio g,reviewed_alias,high,False
+"Studio G Architects, Inc.",f_7266ae3e0f,studio g,reviewed_alias,high,False
+Studio G. Architects,f_7266ae3e0f,studio g,reviewed_alias,high,False
+"Studio G. Architects, Inc.",f_7266ae3e0f,studio g,reviewed_alias,high,False
+Jones Whitsett Architects,f_a7c20ed406,jones whitsett architects,normalized,high,False
+"Jones Whitsett Architects, Inc.",f_a7c20ed406,jones whitsett architects,normalized,high,False
+"Baker Wohl Architects, Inc.",f_b5f4d921c7,baker wohl architects,normalized,high,False
+"Baker/Wohl Architects, Inc.",f_b5f4d921c7,baker wohl architects,normalized,high,False
+"Johnson Roberts Associates, Inc.",f_9a498ddf07,johnson roberts associates,normalized,high,False
+LLB Architects,f_e635d6818b,llb architects,normalized,high,False
+Perkins Eastman / DPC,f_75500d30ac,perkins eastman dpc,normalized,high,False
+Perkins Eastman DPC,f_75500d30ac,perkins eastman dpc,normalized,high,False
+Perkins Eastman | DPC,f_75500d30ac,perkins eastman dpc,normalized,high,False
+Perkins Eastman/DPC,f_75500d30ac,perkins eastman dpc,normalized,high,False
+Perkins Eastman|DPC,f_75500d30ac,perkins eastman dpc,normalized,high,False
+"Schwartz/Silver Architects, Inc.",f_8aab8af1c2,schwartz silver architects,normalized,high,False
+"Turowoski2 Architecture, Inc.",f_20bb903213,turowoski2 architecture,normalized,high,False
+"Dietz & Company Architects, Inc.",f_8a2a357e1e,dietz and architects,normalized,high,False
+TSKP Studio,f_f73542595a,tskp studio,normalized,high,False
+"TSKP Studio, LLC",f_f73542595a,tskp studio,normalized,high,False
+Tecton Architects,f_617a23282e,tecton architects,normalized,high,False
+"Tecton Architects, Inc.",f_617a23282e,tecton architects,normalized,high,False
+"Tecton Architects, PC",f_617a23282e,tecton architects,normalized,high,False
+Moody Nolan,f_e4eccbc7a6,moody nolan,normalized,high,False
+"Moody Nolan, Inc.",f_e4eccbc7a6,moody nolan,normalized,high,False
+"Caolo Bieniek Associates, Inc.",f_e5ca9b4311,caolo bieniek associates,normalized,high,False
+Saam Architecture,f_95f3419695,saam architecture,normalized,high,False
+saam architecture LLC,f_95f3419695,saam architecture,normalized,high,False
+CBT/Childs Bertman Tseckares Inc.,f_643459c5db,cbt childs bertman tseckares,normalized,high,False
+"CBT/Childs Bertman Tseckares, Inc.",f_643459c5db,cbt childs bertman tseckares,normalized,high,False
+"William Rawn Associates, Architects Inc.",f_428da017c5,william rawn associates architects,normalized,high,False
+"William Rawn Associates, Architects, Inc.",f_428da017c5,william rawn associates architects,normalized,high,False
+"JCJ Architecture, P.C.",f_37771e3305,jcj architecture p c,normalized,high,False
+Miller Dyer Spears Inc./Sasaki,f_248d030051,miller dyer spears sasaki,normalized,high,False
+Arrowstreet Inc./Moody Nolan,f_3cb2cf250d,arrowstreet moody nolan,joint_venture_kept_separate,high,True
+Dore & Whittier in association with Finegold Alexander Architects,f_7fbe8a7f99,dore and whittier in association with finegold alexander architects,joint_venture_kept_separate,high,True
+Arrowstreet Inc. in association with Moody Nolan,f_e24437a0c5,arrowstreet in association with moody nolan,joint_venture_kept_separate,high,True
+"JCJ Architecture, PC in association with Moody Nolan, Inc.",f_83980296da,jcj architecture in association with moody nolan,joint_venture_kept_separate,high,True
+"Jones Whitsett Architects, Inc. in association with SMMA",f_d8d5f7bde9,jones whitsett architects in association with smma,joint_venture_kept_separate,high,True
+"TSKP Studios, Inc.",f_6cd43916ea,tskp studios,normalized,high,False
+"LaValle Bresinger Architects, Inc",f_b283cdffd7,lavalle bresinger architects,normalized,high,False
+Taylor & Burns Architects,f_0f81d44a36,taylor and burns architects,normalized,high,False
+Lamoureaux Pagano Associates | Architects,f_4f8f1c626c,lamoureaux pagano associates architects,normalized,high,False
+LaVallee Brensigner,f_09a27e457b,lavallee brensinger,normalized,high,False
+LaVallee Brensinger,f_09a27e457b,lavallee brensinger,normalized,high,False
+"Machado and Silvetti Associates, LLC",f_09c9ae5963,machado and silvetti associates,normalized,high,False
+"CBT/Childs Bertram Tseckares, Inc.",f_70690af3e0,cbt childs bertram tseckares,normalized,high,False
+"William Rawn Associates | Architects, Inc. w/ Arrowstreet",f_dbf5f944ac,william rawn associates architects w arrowstreet,normalized,high,False
+Mount Vernon Group Architects in association with Moody Nolan,f_02ca1c59a0,mount vernon group architects in association with moody nolan,joint_venture_kept_separate,high,True
+"William Rawn Associations, Architects, Inc.",f_c50e90c627,william rawn associations architects,normalized,high,False
+Flansburg Architects,f_7df32c01d5,flansburg architects,normalized,high,False
+"Machado Silvetti Associates, LLC",f_514f30b12e,machado silvetti associates,normalized,high,False
+"DLR Group, Inc.",f_b81fe02092,dlr group,normalized,high,False
+Turowski 2,f_b4040c5d8f,turowski2,normalized,high,False
+Icon Architecture,f_18dc651e15,icon architecture,normalized,high,False
+"Sasaki Architects, PC",f_a694f93315,sasaki architects,normalized,high,False
+"Utile, Inc.",f_df69690801,utile,normalized,high,False
+Leers Weinsapfel Associates,f_442173657d,leers weinsapfel associates,normalized,high,False
+Jones Whitsett Associates,f_a50ea7104a,jones whitsett associates,normalized,high,False
