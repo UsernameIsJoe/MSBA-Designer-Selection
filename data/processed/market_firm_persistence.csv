@@ -1,0 +1,83 @@
+firm_id,firm_name,finalist_appearances,rank1_count,rank1_rate,first_date,last_date,entry_year,last_year,left_censored_entry,active_years,span_years,years_since_last_observed,periods_present,period_list,seen_in_2024_or_later
+f_9b0a94bec8,"Drummey Rosane Anderson, Inc.",44,21,0.4773,2007-08-07,2024-12-17,2007,2024,True,16,17.36,1.76,4,2007-2011; 2012-2016; 2017-2021; 2022-2026,True
+f_e47b019976,"Symmes Maini & McKee Associates, Inc.",39,20,0.5128,2007-08-07,2026-08-11,2007,2026,True,18,19.01,0.11,4,2007-2011; 2012-2016; 2017-2021; 2022-2026,True
+f_0a77379ca5,"Dore & Whittier Architects, Inc.",45,19,0.4222,2009-03-24,2026-05-05,2009,2026,True,17,17.11,0.38,4,2007-2011; 2012-2016; 2017-2021; 2022-2026,True
+f_e3a453551d,"HMFH Architects, Inc.",30,19,0.6333,2007-08-07,2026-01-27,2007,2026,True,17,18.48,0.65,4,2007-2011; 2012-2016; 2017-2021; 2022-2026,True
+f_30d6babd99,"DiNisco Design, Inc.",26,16,0.6154,2009-02-03,2025-08-12,2009,2025,True,14,16.52,1.11,4,2007-2011; 2012-2016; 2017-2021; 2022-2026,True
+f_5d25998af5,"Tappé Associates, Inc.",30,15,0.5,2009-02-17,2026-02-10,2009,2026,True,17,16.98,0.61,4,2007-2011; 2012-2016; 2017-2021; 2022-2026,True
+f_282401311f,Ai3 Architects LLC,23,15,0.6522,2010-05-04,2026-09-22,2010,2026,True,12,16.39,0.0,4,2007-2011; 2012-2016; 2017-2021; 2022-2026,True
+f_db80c70a7f,"Lamoureux Pagano & Associates, Inc.",30,14,0.4667,2009-02-03,2026-04-07,2009,2026,True,13,17.17,0.46,4,2007-2011; 2012-2016; 2017-2021; 2022-2026,True
+f_a4ffc25c6a,"Mount Vernon Group Architects, Inc.",44,11,0.25,2009-03-03,2026-03-24,2009,2026,True,18,17.06,0.5,4,2007-2011; 2012-2016; 2017-2021; 2022-2026,True
+f_998e5c2e75,"Flansburgh Associates, Inc.",50,10,0.2,2008-07-08,2024-08-27,2008,2024,True,17,16.14,2.07,4,2007-2011; 2012-2016; 2017-2021; 2022-2026,True
+f_34bdcec244,"Raymond Design Associates, Inc.",30,10,0.3333,2009-03-24,2026-09-08,2009,2026,True,13,17.46,0.04,4,2007-2011; 2012-2016; 2017-2021; 2022-2026,True
+f_fdca913eb7,"JCJ Architecture, PC",30,9,0.3,2009-07-21,2026-02-24,2009,2026,True,15,16.6,0.57,4,2007-2011; 2012-2016; 2017-2021; 2022-2026,True
+f_20fb49050b,"Design Partnership of Cambridge, Inc.",26,8,0.3077,2009-01-06,2015-12-15,2009,2015,True,7,6.94,10.77,2,2007-2011; 2012-2016,False
+f_e546323383,"Arrowstreet, Inc.",20,8,0.4,2010-11-02,2026-03-10,2010,2026,True,10,15.35,0.54,4,2007-2011; 2012-2016; 2017-2021; 2022-2026,True
+f_5bb0de6098,"Kaestle Boos Associates, Inc.",38,7,0.1842,2009-01-13,2026-08-11,2009,2026,True,15,17.57,0.11,4,2007-2011; 2012-2016; 2017-2021; 2022-2026,True
+f_7b5bae9929,"Turowski2 Architecture, Inc.",19,6,0.3158,2009-03-03,2022-09-13,2009,2022,True,12,13.53,4.02,4,2007-2011; 2012-2016; 2017-2021; 2022-2026,False
+f_5e68feabfd,Perkins Eastman,13,6,0.4615,2010-11-16,2026-03-24,2010,2026,True,10,15.35,0.5,4,2007-2011; 2012-2016; 2017-2021; 2022-2026,True
+f_a7c20ed406,"Jones Whitsett Architects, Inc.",11,6,0.5455,2014-10-07,2024-02-13,2014,2024,False,8,9.35,2.61,3,2012-2016; 2017-2021; 2022-2026,True
+f_470ec1ec17,"Finegold Alexander Architects, Inc.",18,5,0.2778,2009-05-19,2026-07-28,2009,2026,True,12,17.19,0.15,4,2007-2011; 2012-2016; 2017-2021; 2022-2026,True
+f_2cd0b03421,"OMR Architects, Inc.",18,5,0.2778,2009-03-03,2017-09-12,2009,2017,True,8,8.53,9.03,3,2007-2011; 2012-2016; 2017-2021,False
+f_dac2822d39,Perkins + Will,17,5,0.2941,2014-02-25,2025-10-07,2014,2025,False,11,11.61,0.96,3,2012-2016; 2017-2021; 2022-2026,True
+f_87097bdfc4,"Jonathan Levi Architects, LLC",16,4,0.25,2010-11-02,2026-09-22,2010,2026,True,10,15.89,0.0,4,2007-2011; 2012-2016; 2017-2021; 2022-2026,True
+f_e2e2819afa,"Caolo & Bieniek Associates, Inc.",7,4,0.5714,2012-02-28,2024-11-05,2012,2024,False,6,12.69,1.88,3,2012-2016; 2017-2021; 2022-2026,True
+f_f3754461b4,Miller Dyer Spears Inc.,23,3,0.1304,2009-01-06,2026-07-28,2009,2026,True,14,17.56,0.15,4,2007-2011; 2012-2016; 2017-2021; 2022-2026,True
+f_b7c042c2cf,LaVallee Brensinger Architects,10,3,0.3,2011-02-15,2026-02-24,2011,2026,True,8,15.03,0.57,3,2007-2011; 2017-2021; 2022-2026,True
+f_f73542595a,TSKP Studio,10,3,0.3,2017-05-16,2024-11-19,2017,2024,False,5,7.51,1.84,2,2017-2021; 2022-2026,True
+f_4cc259c11b,"Knight, Bagge & Anderson, Inc.",8,3,0.375,2009-03-03,2017-10-17,2009,2017,True,6,8.62,8.93,3,2007-2011; 2012-2016; 2017-2021,False
+f_7266ae3e0f,"Studio G Architects, Inc.",16,2,0.125,2014-09-09,2024-04-09,2014,2024,False,7,9.58,2.45,3,2012-2016; 2017-2021; 2022-2026,True
+f_75500d30ac,Perkins Eastman DPC,6,2,0.3333,2016-04-26,2021-12-14,2016,2021,False,3,5.63,4.77,2,2012-2016; 2017-2021,False
+f_5689d3a3d2,"Margo Jones Architects, Inc.",3,2,0.6667,2010-06-29,2011-11-22,2010,2011,True,2,1.4,14.83,1,2007-2011,False
+f_769b4b98fb,"Fletcher Thompson Architecture Engineering, LLC",8,1,0.125,2010-07-13,2012-02-07,2010,2012,True,3,1.57,14.62,2,2007-2011; 2012-2016,False
+f_3bd8197a29,"CGKV Architects, Inc.",3,1,0.3333,2010-05-04,2010-07-27,2010,2010,True,1,0.23,16.16,1,2007-2011,False
+f_09a27e457b,LaVallee Brensinger,3,1,0.3333,2023-11-21,2025-11-04,2023,2025,False,2,1.95,0.88,1,2022-2026,True
+f_12bcfb854a,"Habeeb & Associates Architects, Inc.",2,1,0.5,2013-08-20,2017-05-23,2013,2017,False,2,3.76,9.33,2,2012-2016; 2017-2021,False
+f_37771e3305,"JCJ Architecture, P.C.",2,1,0.5,2020-06-16,2020-11-03,2020,2020,False,1,0.38,5.88,1,2017-2021,False
+f_09c9ae5963,"Machado and Silvetti Associates, LLC",2,1,0.5,2024-03-12,2026-03-10,2024,2026,False,2,1.99,0.54,1,2022-2026,True
+f_95f3419695,Saam Architecture,2,1,0.5,2018-12-04,2026-02-10,2018,2026,False,2,7.19,0.61,2,2017-2021; 2022-2026,True
+f_7df32c01d5,Flansburg Architects,1,1,1.0,2025-11-04,2025-11-04,2025,2025,False,1,0.0,0.88,1,2022-2026,True
+f_d8d5f7bde9,"Jones Whitsett Architects, Inc. in association with SMMA",1,1,1.0,2022-04-05,2022-04-05,2022,2022,False,1,0.0,4.47,1,2022-2026,False
+f_248d030051,Miller Dyer Spears Inc./Sasaki,1,1,1.0,2020-12-15,2020-12-15,2020,2020,False,1,0.0,5.77,1,2017-2021,False
+f_003cfb34ed,"Russo Barr Associates, Inc.",1,1,1.0,2009-06-02,2009-06-02,2009,2009,True,1,0.0,17.31,1,2007-2011,False
+f_6662a0d9c8,"Tessier Associates, Inc.",1,1,1.0,2009-11-03,2009-11-03,2009,2009,True,1,0.0,16.88,1,2007-2011,False
+f_643459c5db,CBT/Childs Bertman Tseckares Inc.,6,0,0.0,2019-07-23,2026-09-08,2019,2026,False,4,7.13,0.04,2,2017-2021; 2022-2026,True
+f_233c290340,S/L/A/M Collaborative,6,0,0.0,2010-07-27,2025-11-18,2010,2025,True,4,15.31,0.84,3,2007-2011; 2017-2021; 2022-2026,True
+f_8dfd8390db,"Architecture Involution, LLC",5,0,0.0,2008-07-08,2009-06-16,2008,2009,True,2,0.94,17.27,1,2007-2011,False
+f_26c0d80ab5,"Taylor & Burns, Inc.",5,0,0.0,2010-05-18,2020-01-07,2010,2020,True,5,9.64,6.71,3,2007-2011; 2012-2016; 2017-2021,False
+f_3232600d7d,Maryann Thompson Architects,3,0,0.0,2010-11-02,2025-11-04,2010,2025,True,2,15.01,0.88,2,2007-2011; 2022-2026,True
+f_428da017c5,"William Rawn Associates, Architects, Inc.",3,0,0.0,2019-10-15,2021-11-02,2019,2021,False,3,2.05,4.89,1,2017-2021,False
+f_608f279e44,ARC/Architectural Resources Cambridge,2,0,0.0,2012-01-24,2012-03-13,2012,2012,False,1,0.13,14.53,1,2012-2016,False
+f_b5f4d921c7,"Baker Wohl Architects, Inc.",2,0,0.0,2015-04-21,2016-09-13,2015,2016,False,2,1.4,10.02,1,2012-2016,False
+f_f7c5257a57,"CSS Architects, Inc.",2,0,0.0,2009-01-13,2016-08-09,2009,2016,True,2,7.57,10.12,2,2007-2011; 2012-2016,False
+f_617a23282e,Tecton Architects,2,0,0.0,2017-12-12,2025-08-12,2017,2025,False,2,7.67,1.11,2,2017-2021; 2022-2026,True
+f_b860454ab6,Tetra Tech Architects & Engineers,2,0,0.0,2012-03-13,2013-08-20,2012,2013,False,2,1.44,13.09,1,2012-2016,False
+f_d28e0aa7e2,"ARCADD, Inc.",1,0,0.0,2011-02-15,2011-02-15,2011,2011,True,1,0.0,15.6,1,2007-2011,False
+f_e24437a0c5,Arrowstreet Inc. in association with Moody Nolan,1,0,0.0,2021-08-17,2021-08-17,2021,2021,False,1,0.0,5.1,1,2017-2021,False
+f_3cb2cf250d,Arrowstreet Inc./Moody Nolan,1,0,0.0,2021-02-02,2021-02-02,2021,2021,False,1,0.0,5.63,1,2017-2021,False
+f_bdfa89263d,"CBI Consulting, Inc.",1,0,0.0,2009-06-02,2009-06-02,2009,2009,True,1,0.0,17.31,1,2007-2011,False
+f_70690af3e0,"CBT/Childs Bertram Tseckares, Inc.",1,0,0.0,2024-09-10,2024-09-10,2024,2024,False,1,0.0,2.03,1,2022-2026,True
+f_e5ca9b4311,"Caolo Bieniek Associates, Inc.",1,0,0.0,2018-07-10,2018-07-10,2018,2018,False,1,0.0,8.2,1,2017-2021,False
+f_b81fe02092,"DLR Group, Inc.",1,0,0.0,2026-09-22,2026-09-22,2026,2026,False,1,0.0,0.0,1,2022-2026,True
+f_9d3f5bebc5,"DiNisco Design Partnership Limited and HMFH Architects, Inc.",1,0,0.0,2010-02-02,2010-02-02,2010,2010,True,1,0.0,16.64,1,2007-2011,False
+f_8a2a357e1e,"Dietz & Company Architects, Inc.",1,0,0.0,2016-09-27,2016-09-27,2016,2016,False,1,0.0,9.98,1,2012-2016,False
+f_7fbe8a7f99,Dore & Whittier in association with Finegold Alexander Architects,1,0,0.0,2021-08-17,2021-08-17,2021,2021,False,1,0.0,5.1,1,2017-2021,False
+f_ba9cfe3236,"Flansburgh Associates, Inc. and Jonathan Levi Architects LLC",1,0,0.0,2009-12-29,2009-12-29,2009,2009,True,1,0.0,16.73,1,2007-2011,False
+f_973d561909,"Gale Associates, Inc.",1,0,0.0,2009-06-02,2009-06-02,2009,2009,True,1,0.0,17.31,1,2007-2011,False
+f_83980296da,"JCJ Architecture, PC in association with Moody Nolan, Inc.",1,0,0.0,2021-11-16,2021-11-16,2021,2021,False,1,0.0,4.85,1,2017-2021,False
+f_9a498ddf07,"Johnson Roberts Associates, Inc.",1,0,0.0,2015-04-21,2015-04-21,2015,2015,False,1,0.0,11.42,1,2012-2016,False
+f_e635d6818b,LLB Architects,1,0,0.0,2015-06-16,2015-06-16,2015,2015,False,1,0.0,11.27,1,2012-2016,False
+f_0e63d7acd5,"LPBA Architects, Inc.",1,0,0.0,2009-06-16,2009-06-16,2009,2009,True,1,0.0,17.27,1,2007-2011,False
+f_b283cdffd7,"LaValle Bresinger Architects, Inc",1,0,0.0,2022-11-01,2022-11-01,2022,2022,False,1,0.0,3.89,1,2022-2026,False
+f_4f8f1c626c,Lamoureaux Pagano Associates Architects,1,0,0.0,2023-10-17,2023-10-17,2023,2023,False,1,0.0,2.93,1,2022-2026,False
+f_8de622fc91,"Lamoureaux, Pagano & Associates, Inc.",1,0,0.0,2011-12-06,2011-12-06,2011,2011,True,1,0.0,14.8,1,2007-2011,False
+f_3228a50923,"Leers Weinzapfel Associates Architects, Inc.",1,0,0.0,2013-01-08,2013-01-08,2013,2013,False,1,0.0,13.7,1,2012-2016,False
+f_e4eccbc7a6,"Moody Nolan, Inc.",1,0,0.0,2018-02-27,2018-02-27,2018,2018,False,1,0.0,8.57,1,2017-2021,False
+f_02ca1c59a0,Mount Vernon Group Architects in association with Moody Nolan,1,0,0.0,2025-04-22,2025-04-22,2025,2025,False,1,0.0,1.42,1,2022-2026,True
+f_0f794d1284,"Mount Vernon Group Architects, Inc. and Raymond Design Associates, Inc.",1,0,0.0,2011-03-01,2011-03-01,2011,2011,True,1,0.0,15.56,1,2007-2011,False
+f_8aab8af1c2,"Schwartz/Silver Architects, Inc.",1,0,0.0,2016-04-26,2016-04-26,2016,2016,False,1,0.0,10.41,1,2012-2016,False
+f_e2de53261e,"Symmes Maini McKee Associates, Inc.",1,0,0.0,2011-01-11,2011-01-11,2011,2011,True,1,0.0,15.7,1,2007-2011,False
+f_6da4268bd0,"TLCR Associates, Inc.",1,0,0.0,2010-05-04,2010-05-04,2010,2010,True,1,0.0,16.39,1,2007-2011,False
+f_20bb903213,"Turowoski2 Architecture, Inc.",1,0,0.0,2016-09-27,2016-09-27,2016,2016,False,1,0.0,9.98,1,2012-2016,False
+f_dbf5f944ac,"William Rawn Associates Architects, Inc. w/ Arrowstreet",1,0,0.0,2024-10-08,2024-10-08,2024,2024,False,1,0.0,1.95,1,2022-2026,True
+f_c50e90c627,"William Rawn Associations, Architects, Inc.",1,0,0.0,2025-09-25,2025-09-25,2025,2025,False,1,0.0,0.99,1,2022-2026,True

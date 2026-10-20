@@ -64,4 +64,4 @@ MSBA’s public-records page lists “Designer Selection Panel information” an
 
 ## Not done
 
-No concentration, newcomer, voting, qualification, or justification measurement. No public-records request.
+Rank-1 concentration, archive-newcomer counts, and field size are reported in `reports/01_market_structure.md`. Voting, qualifications, and written justifications are not measured. No public-records request was sent. The inferred roster in `processed/dsp_roster_inferred.csv` is still not a ballot.

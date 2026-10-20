@@ -1,0 +1,5 @@
+sample,competitions,unique_winners,hhi,effective_winners,top5_share,top10_share
+primary_multifirm,273,42,0.0445,22.4553,0.348,0.5861
+drop_inferred_list_order,267,42,0.0447,22.3547,0.3483,0.588
+drop_joint_venture_winners,272,41,0.0448,22.2978,0.3493,0.5882
+add_sole_published_firm,278,44,0.0439,22.7574,0.3453,0.5827

@@ -1,0 +1,23 @@
+firm_a_id,firm_b_id,firm_a,firm_b,shared_rankings,a_finished_ahead,b_finished_ahead,tied_rank,a_ranked_first,b_ranked_first,someone_else_ranked_first,in_report,one_sided
+f_5bb0de6098,f_9b0a94bec8,"Kaestle Boos Associates, Inc.","Drummey Rosane Anderson, Inc.",14,3,11,0,2,8,4,1,1
+f_20fb49050b,f_998e5c2e75,"Design Partnership of Cambridge, Inc.","Flansburgh Associates, Inc.",11,7,4,0,2,1,8,1,0
+f_0a77379ca5,f_998e5c2e75,"Dore & Whittier Architects, Inc.","Flansburgh Associates, Inc.",8,4,4,0,4,2,2,1,0
+f_998e5c2e75,f_e3a453551d,"Flansburgh Associates, Inc.","HMFH Architects, Inc.",8,1,7,0,1,7,0,1,1
+f_998e5c2e75,f_e47b019976,"Flansburgh Associates, Inc.","Symmes Maini & McKee Associates, Inc.",8,1,7,0,1,5,2,1,1
+f_0a77379ca5,f_5d25998af5,"Dore & Whittier Architects, Inc.","Tappé Associates, Inc.",7,5,2,0,3,1,3,0,0
+f_9b0a94bec8,f_a4ffc25c6a,"Drummey Rosane Anderson, Inc.","Mount Vernon Group Architects, Inc.",7,5,2,0,2,1,4,0,0
+f_5d25998af5,f_998e5c2e75,"Tappé Associates, Inc.","Flansburgh Associates, Inc.",7,6,1,0,4,0,3,1,1
+f_0a77379ca5,f_9b0a94bec8,"Dore & Whittier Architects, Inc.","Drummey Rosane Anderson, Inc.",6,2,4,0,2,4,0,0,0
+f_998e5c2e75,f_db80c70a7f,"Flansburgh Associates, Inc.","Lamoureux Pagano & Associates, Inc.",6,1,5,0,0,4,2,0,0
+f_e3a453551d,f_e47b019976,"HMFH Architects, Inc.","Symmes Maini & McKee Associates, Inc.",6,2,4,0,1,3,2,0,0
+f_e47b019976,f_fdca913eb7,"Symmes Maini & McKee Associates, Inc.","JCJ Architecture, PC",6,4,2,0,2,1,3,0,0
+f_282401311f,f_5d25998af5,Ai3 Architects LLC,"Tappé Associates, Inc.",5,3,2,0,3,2,0,0,0
+f_30d6babd99,f_a4ffc25c6a,"DiNisco Design, Inc.","Mount Vernon Group Architects, Inc.",5,5,0,0,5,0,0,0,0
+f_0a77379ca5,f_87097bdfc4,"Dore & Whittier Architects, Inc.","Jonathan Levi Architects, LLC",5,2,3,0,2,3,0,0,0
+f_998e5c2e75,f_a4ffc25c6a,"Flansburgh Associates, Inc.","Mount Vernon Group Architects, Inc.",5,2,3,0,1,2,2,0,0
+f_db80c70a7f,f_e47b019976,"Lamoureux Pagano & Associates, Inc.","Symmes Maini & McKee Associates, Inc.",5,1,4,0,1,4,0,0,0
+f_2cd0b03421,f_db80c70a7f,"OMR Architects, Inc.","Lamoureux Pagano & Associates, Inc.",5,3,2,0,1,1,3,0,0
+f_dac2822d39,f_e47b019976,Perkins + Will,"Symmes Maini & McKee Associates, Inc.",5,3,2,0,3,2,0,0,0
+f_34bdcec244,f_a4ffc25c6a,"Raymond Design Associates, Inc.","Mount Vernon Group Architects, Inc.",5,2,3,0,2,1,2,0,0
+f_34bdcec244,f_7b5bae9929,"Raymond Design Associates, Inc.","Turowski2 Architecture, Inc.",5,3,2,0,2,2,1,0,0
+f_7b5bae9929,f_a4ffc25c6a,"Turowski2 Architecture, Inc.","Mount Vernon Group Architects, Inc.",5,2,3,0,2,3,0,0,0

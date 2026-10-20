@@ -1,0 +1,97 @@
+{
+  "archive_end": "2026-09-22",
+  "audit": {
+    "selection_events": 282,
+    "projects": 281,
+    "duplicate_project_rows": 1,
+    "competitor_rows": 888,
+    "choice_status": {
+      "model_sample": 794,
+      "applicant_pool_only": 77,
+      "incomplete_rank": 12,
+      "single_firm": 5
+    },
+    "selection_rounds": {
+      "final_ranking": 253,
+      "chart_final_ranking": 27,
+      "application_ranking_no_interview": 2
+    },
+    "rank_methods_on_events": {
+      "explicit_number": 246,
+      "chart_rank": 29,
+      "published_list_order": 7
+    },
+    "model_competitions": 273,
+    "model_finalist_rows": 794,
+    "model_firms": 82,
+    "directory_firms": 91,
+    "event_date_min": "2007-08-07",
+    "event_date_max": "2026-10-20",
+    "company": {
+      "directory_firms": 91,
+      "with_verification_status": 73,
+      "with_staff_size": 39,
+      "with_headquarters": 40,
+      "with_founded_year": 35
+    }
+  },
+  "bootstrap": {
+    "draws": 1000,
+    "competitions": 273,
+    "hhi": 0.0445,
+    "hhi_low": 0.0426,
+    "hhi_high": 0.0544,
+    "effective_winners": 22.4553,
+    "effective_winners_low": 18.3881,
+    "effective_winners_high": 23.4589,
+    "top1_share": 0.0769,
+    "top1_share_low": 0.0733,
+    "top1_share_high": 0.1136,
+    "top5_share": 0.348,
+    "top5_share_low": 0.3223,
+    "top5_share_high": 0.4176,
+    "top10_share": 0.5861,
+    "top10_share_low": 0.5568,
+    "top10_share_high": 0.6593
+  },
+  "contrasts": {
+    "draws": 2000,
+    "top5_early_window": "2007-2011",
+    "top5_late_window": "2017-2021",
+    "top5_early": 0.4493,
+    "top5_late": 0.3286,
+    "top5_difference": 0.1207,
+    "top5_difference_low": -0.0509,
+    "top5_difference_high": 0.1942,
+    "hhi_difference": 0.0138,
+    "hhi_difference_low": -0.0058,
+    "hhi_difference_high": 0.0374,
+    "two_firm_early_window": "2009-2016",
+    "two_firm_late_window": "2018-2025",
+    "two_firm_early_competitions": 138,
+    "two_firm_late_competitions": 101,
+    "two_firm_early_share": 0.0507,
+    "two_firm_late_share": 0.2277,
+    "two_firm_difference": 0.177,
+    "two_firm_difference_low": 0.0905,
+    "two_firm_difference_high": 0.2642
+  },
+  "full_sample": {
+    "window": "full",
+    "competitions": 273,
+    "unique_finalists": 82,
+    "unique_winners": 42,
+    "hhi": 0.0445,
+    "effective_winners": 22.4553,
+    "normalized_hhi": 0.0212,
+    "top1_share": 0.0769,
+    "top3_share": 0.2198,
+    "top5_share": 0.348,
+    "top10_share": 0.5861,
+    "participation_hhi": 0.034,
+    "effective_finalists": 29.4294,
+    "participation_top5_share": 0.2796,
+    "participation_top10_share": 0.4786,
+    "mean_finalists": 2.9084
+  }
+}

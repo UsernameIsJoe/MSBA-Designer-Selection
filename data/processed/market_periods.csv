@@ -1,0 +1,5 @@
+period,year_start,year_end,left_censored,contains_partial_year,right_censored,competitions,unique_finalists,unique_winners,archive_newcomers,finalists_not_seen_in_a_later_period,wins_by_firms_that_won_in_an_earlier_period,share_wins_by_earlier_winners,wins_by_previous_period_winners,share_wins_by_previous_period_winners
+2007-2011,2007,2011,True,False,False,69,43,26,43,15,0,,,
+2012-2016,2012,2016,False,False,False,71,40,24,15,12,62,0.8732,62.0,0.8732
+2017-2021,2017,2021,False,False,False,70,43,28,13,14,63,0.9,59.0,0.8429
+2022-2026,2022,2026,False,True,True,63,41,28,11,0,59,0.9365,58.0,0.9206
