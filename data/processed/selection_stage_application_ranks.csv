@@ -1,0 +1,8 @@
+stage,group_family,group,rows,successes,projects,rate,rate_low,rate_high,wilson_low,wilson_high
+application_rank_to_shortlist,preinterview_rank,3,19,12,19,0.6316,0.4211,0.8421,0.4104,0.8085
+application_rank_to_shortlist,preinterview_rank,2,29,27,25,0.931,0.8214,1.0,0.7804,0.9809
+application_rank_to_shortlist,preinterview_rank,no number,63,6,24,0.0952,0.0,0.2354,0.0444,0.1926
+application_rank_to_shortlist,preinterview_rank,1,29,29,25,1.0,1.0,1.0,0.883,1.0
+application_rank_to_shortlist,preinterview_rank,4 or lower,2,2,2,1.0,1.0,1.0,0.3424,1.0
+application_rank_to_shortlist,preinterview_rank,disqualified,2,0,2,0.0,0.0,0.0,0.0,0.6576
+preinterview_first_to_rank1,preinterview_rank,unique pre-interview first,18,12,18,0.6667,0.4444,0.8889,0.4375,0.8372

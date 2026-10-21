@@ -1,0 +1,10 @@
+term_set,competitions_train,competitions_test,log_loss,log_loss_low,log_loss_high,coefficients
+prior_wins,128,93,0.9578,0.8466,1.0705,{'prior_wins': 0.12}
+prior_finals,137,93,0.9796,0.9192,1.0395,{'prior_finals': 0.024}
+shrunk_win_rate,137,93,0.9796,0.9296,1.0317,{'shrunk_win_rate': 1.149}
+"prior_wins,prior_finals",138,93,0.9559,0.844,1.0715,"{'prior_wins': 0.137, 'prior_finals': -0.01}"
+"prior_wins,prior_same_wins",129,93,0.9517,0.8387,1.071,"{'prior_wins': 0.106, 'prior_same_wins': 0.059}"
+"prior_wins,prior_same_finals",137,93,0.9664,0.8558,1.0797,"{'prior_wins': 0.129, 'prior_same_finals': -0.024}"
+"prior_wins,prior_same_wins,wins_previous_3y",129,93,0.9483,0.8391,1.0632,"{'prior_wins': 0.098, 'prior_same_wins': 0.057, 'wins_previous_3y': 0.025}"
+"prior_wins,wins_previous_5y",128,93,0.9563,0.8474,1.0667,"{'prior_wins': 0.116, 'wins_previous_5y': 0.007}"
+"prior_wins,prior_same_wins,staff_51_200,staff_201_plus,boston_hq,ma_outside",138,93,0.9413,0.8312,1.0553,"{'prior_wins': 0.08, 'prior_same_wins': 0.058, 'staff_51_200': 0.149, 'staff_201_plus': 0.196, 'boston_hq': 0.157, 'ma_outside': 0.422}"

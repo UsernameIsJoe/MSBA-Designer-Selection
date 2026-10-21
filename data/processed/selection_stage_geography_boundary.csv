@@ -1,0 +1,9 @@
+stage,group_family,group,rows,successes,projects,rate,rate_low,rate_high,wilson_low,wilson_high,boundary
+application_to_shortlist,headquarters_2026,boston_hq,36,20,19,0.5556,0.4117,0.7097,0.3958,0.7046,city_line
+application_to_shortlist,headquarters_2026,ma_outside_boston,30,23,20,0.7667,0.5998,0.9231,0.5907,0.8821,city_line
+shortlist_to_rank1,headquarters_2026,boston_hq,17,5,12,0.2941,0.1429,0.4375,0.1328,0.5313,city_line
+shortlist_to_rank1,headquarters_2026,ma_outside_boston,19,11,14,0.5789,0.4,0.7647,0.3628,0.7686,city_line
+application_to_shortlist,headquarters_2026,boston_hq,43,26,22,0.6047,0.475,0.7429,0.4558,0.7363,cambridge_and_somerville_with_boston
+application_to_shortlist,headquarters_2026,ma_outside_boston,23,17,15,0.7391,0.5416,0.913,0.5353,0.8745,cambridge_and_somerville_with_boston
+shortlist_to_rank1,headquarters_2026,boston_hq,22,9,15,0.4091,0.2381,0.5789,0.2326,0.6127,cambridge_and_somerville_with_boston
+shortlist_to_rank1,headquarters_2026,ma_outside_boston,14,7,10,0.5,0.2857,0.7273,0.268,0.732,cambridge_and_somerville_with_boston

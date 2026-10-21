@@ -1,0 +1,7 @@
+check,competitions,competitions_with_unique_max,winner_is_unique_max,random_finalist_baseline,unique_max_gap,unique_max_gap_low,unique_max_gap_high,winner_above_other_mean,winner_above_other_mean_low,winner_above_other_mean_high
+primary_present_day_bands,219,120,0.3667,0.3944,-0.0278,-0.1037,0.0583,0.2146,0.1644,0.274
+drop_point_estimates,160,63,0.3968,0.4352,-0.0384,-0.1584,0.0878,0.1562,0.1062,0.2188
+count_about_1000_with_1001_plus,219,119,0.3613,0.395,-0.0336,-0.1136,0.0523,0.2146,0.1644,0.274
+drop_inferred_rank_order,217,119,0.3697,0.395,-0.0252,-0.1077,0.0517,0.2166,0.1659,0.2719
+selections_2012_2018,92,52,0.3654,0.4006,-0.0353,-0.1649,0.0995,0.2283,0.1522,0.3261
+selections_2019_2026,80,46,0.3261,0.3877,-0.0616,-0.1856,0.0704,0.2,0.1125,0.2875

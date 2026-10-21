@@ -1,0 +1,54 @@
+{
+  "excess_from_2012": {
+    "competitions": 68,
+    "minimum_year": 2012,
+    "excess": 0.1716,
+    "excess_low": 0.0784,
+    "excess_high": 0.2598
+  },
+  "excess_full_archive": {
+    "competitions": 107,
+    "minimum_year": 2007,
+    "excess": 0.1402,
+    "excess_low": 0.0569,
+    "excess_high": 0.2259
+  },
+  "equal_2019_forward": {
+    "term_set": "equal_probability",
+    "competitions_test": 93,
+    "log_loss": 1.0089,
+    "log_loss_low": 0.9696,
+    "log_loss_high": 1.045
+  },
+  "timing": {
+    "rows_with_a_prior_win": 624,
+    "median_years_since_win_if_rank1": 1.207,
+    "median_years_since_win_if_not": 1.188
+  },
+  "correlation_prior_wins_same_type": 0.711,
+  "late_start": {
+    "wins": {
+      "term_set": "prior_wins",
+      "competitions_train": 76,
+      "competitions_test": 93,
+      "log_loss": 0.9595,
+      "log_loss_low": 0.8462,
+      "log_loss_high": 1.0743,
+      "coefficients": {
+        "prior_wins": 0.123
+      }
+    },
+    "wins_plus_same_type": {
+      "term_set": "prior_wins,prior_same_wins",
+      "competitions_train": 76,
+      "competitions_test": 93,
+      "log_loss": 0.9544,
+      "log_loss_low": 0.8409,
+      "log_loss_high": 1.0729,
+      "coefficients": {
+        "prior_wins": 0.111,
+        "prior_same_wins": 0.049
+      }
+    }
+  }
+}

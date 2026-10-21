@@ -1,0 +1,86 @@
+era,metric,estimate,low,high,numerator,denominator,competitions,note
+2007-2009,competitions,30.0,,,30.0,30,30,Model sample. 2026 is partial through 2026-09-22.
+2007-2009,unique_winners,16.0,,,16.0,30,30,Distinct rank-1 firm ids.
+2007-2009,hhi,0.0889,,,,30,30,"Rank-1 Herfindahl index. A resampled percentile interval sits above this estimate, because drawing the same ranking twice shrinks the winner set, so no interval is reported."
+2007-2009,top5_share,0.5667,,,,30,30,"Share of rankings held by the five most frequent rank-1 firms inside that snapshot window. The same resampling problem applies, so no interval is reported."
+2007-2009,two_firm_share,0.0333,0.0,0.1,1.0,30,30,Rankings with exactly two firms.
+2007-2009,mean_field,3.0,2.9,3.1,90.0,30,30,Mean firms on the published list.
+2007-2009,mixed_competitions,16.0,,,16.0,30,30,Lists that include both a firm with an earlier rank-1 result and a firm with none.
+2007-2009,incumbent_excess,0.1719,-0.0833,0.401,,16,16,"On mixed lists, rank-1 frequency of firms with an earlier rank-1 result, minus their share of the list."
+2007-2009,zero_prior_rank1_rate,0.2807,0.2083,0.3488,16.0,57,30,Appearances with no earlier rank-1 result in this archive. Early years are left-censored.
+2007-2009,any_prior_rank1_rate,0.4242,0.3077,0.5714,14.0,33,30,Appearances with at least one earlier rank-1 result.
+2007-2009,ma_hq_share_of_located_rank1,0.9231,0.8077,1.0,24.0,26,30,2026 headquarters among rank-1 firms with a verified location. Unknown locations are out of this denominator.
+2007-2009,rank1_location_unknown,0.1333,,,4.0,30,30,Share of rank-1 results with no verified 2026 headquarters.
+2007-2009,staff_201_share_of_banded_rank1,0.1923,0.0385,0.3462,5.0,26,30,2026 staff band among rank-1 firms with a verified band. A band is not the firm's size at the selection.
+2007-2009,rank1_staff_unknown,0.1333,,,4.0,30,30,Share of rank-1 results with no verified 2026 staff band.
+2007-2009,dominant_known_school_type,0.5517,,,16.0,29,30,Most common corrected school type among competitions with a stated grade: elementary.
+2007-2009,ma_hq_share_of_located_finalists,0.9,0.8358,0.9589,63.0,70,30,2026 Massachusetts headquarters among finalist slots with a verified location.
+2007-2009,staff_201_share_of_banded_finalists,0.1,0.0411,0.1667,7.0,70,30,2026 staff band of 201 or more among finalist slots with a verified band.
+2010-2012,competitions,52.0,,,52.0,52,52,Model sample. 2026 is partial through 2026-09-22.
+2010-2012,unique_winners,24.0,,,24.0,52,52,Distinct rank-1 firm ids.
+2010-2012,hhi,0.054,,,,52,52,"Rank-1 Herfindahl index. A resampled percentile interval sits above this estimate, because drawing the same ranking twice shrinks the winner set, so no interval is reported."
+2010-2012,top5_share,0.3846,,,,52,52,"Share of rankings held by the five most frequent rank-1 firms inside that snapshot window. The same resampling problem applies, so no interval is reported."
+2010-2012,two_firm_share,0.0577,0.0,0.1346,3.0,52,52,Rankings with exactly two firms.
+2010-2012,mean_field,2.9808,2.9034,3.0577,155.0,52,52,Mean firms on the published list.
+2010-2012,mixed_competitions,27.0,,,27.0,52,52,Lists that include both a firm with an earlier rank-1 result and a firm with none.
+2010-2012,incumbent_excess,0.034,-0.1481,0.2099,,27,27,"On mixed lists, rank-1 frequency of firms with an earlier rank-1 result, minus their share of the list."
+2010-2012,zero_prior_rank1_rate,0.3143,0.1785,0.4571,11.0,35,52,Appearances with no earlier rank-1 result in this archive. Early years are left-censored.
+2010-2012,any_prior_rank1_rate,0.3417,0.3,0.3852,41.0,120,52,Appearances with at least one earlier rank-1 result.
+2010-2012,ma_hq_share_of_located_rank1,0.8293,0.7073,0.9268,34.0,41,52,2026 headquarters among rank-1 firms with a verified location. Unknown locations are out of this denominator.
+2010-2012,rank1_location_unknown,0.2115,,,11.0,52,52,Share of rank-1 results with no verified 2026 headquarters.
+2010-2012,staff_201_share_of_banded_rank1,0.122,0.0244,0.2195,5.0,41,52,2026 staff band among rank-1 firms with a verified band. A band is not the firm's size at the selection.
+2010-2012,rank1_staff_unknown,0.2115,,,11.0,52,52,Share of rank-1 results with no verified 2026 staff band.
+2010-2012,dominant_known_school_type,0.2821,,,11.0,39,52,Most common corrected school type among competitions with a stated grade: elementary and middle.
+2010-2012,ma_hq_share_of_located_finalists,0.8571,0.7931,0.916,96.0,112,52,2026 Massachusetts headquarters among finalist slots with a verified location.
+2010-2012,staff_201_share_of_banded_finalists,0.1071,0.0505,0.1681,12.0,112,52,2026 staff band of 201 or more among finalist slots with a verified band.
+2013-2017,competitions,79.0,,,79.0,79,79,Model sample. 2026 is partial through 2026-09-22.
+2013-2017,unique_winners,27.0,,,27.0,79,79,Distinct rank-1 firm ids.
+2013-2017,hhi,0.0559,,,,79,79,"Rank-1 Herfindahl index. A resampled percentile interval sits above this estimate, because drawing the same ranking twice shrinks the winner set, so no interval is reported."
+2013-2017,top5_share,0.4304,,,,79,79,"Share of rankings held by the five most frequent rank-1 firms inside that snapshot window. The same resampling problem applies, so no interval is reported."
+2013-2017,two_firm_share,0.0506,0.0127,0.1013,4.0,79,79,Rankings with exactly two firms.
+2013-2017,mean_field,2.9873,2.9241,3.0506,236.0,79,79,Mean firms on the published list.
+2013-2017,mixed_competitions,22.0,,,22.0,79,79,Lists that include both a firm with an earlier rank-1 result and a firm with none.
+2013-2017,incumbent_excess,0.1742,0.0,0.3335,,22,22,"On mixed lists, rank-1 frequency of firms with an earlier rank-1 result, minus their share of the list."
+2013-2017,zero_prior_rank1_rate,0.2069,0.0799,0.3429,6.0,29,79,Appearances with no earlier rank-1 result in this archive. Early years are left-censored.
+2013-2017,any_prior_rank1_rate,0.3527,0.3318,0.3738,73.0,207,79,Appearances with at least one earlier rank-1 result.
+2013-2017,ma_hq_share_of_located_rank1,0.8056,0.7083,0.8889,58.0,72,79,2026 headquarters among rank-1 firms with a verified location. Unknown locations are out of this denominator.
+2013-2017,rank1_location_unknown,0.0886,,,7.0,79,79,Share of rank-1 results with no verified 2026 headquarters.
+2013-2017,staff_201_share_of_banded_rank1,0.0833,0.0278,0.1528,6.0,72,79,2026 staff band among rank-1 firms with a verified band. A band is not the firm's size at the selection.
+2013-2017,rank1_staff_unknown,0.0886,,,7.0,79,79,Share of rank-1 results with no verified 2026 staff band.
+2013-2017,dominant_known_school_type,0.4746,,,28.0,59,79,Most common corrected school type among competitions with a stated grade: elementary.
+2013-2017,ma_hq_share_of_located_finalists,0.7828,0.7319,0.8334,155.0,198,79,2026 Massachusetts headquarters among finalist slots with a verified location.
+2013-2017,staff_201_share_of_banded_finalists,0.1218,0.0761,0.1692,24.0,197,79,2026 staff band of 201 or more among finalist slots with a verified band.
+2018-2024,competitions,88.0,,,88.0,88,88,Model sample. 2026 is partial through 2026-09-22.
+2018-2024,unique_winners,31.0,,,31.0,88,88,Distinct rank-1 firm ids.
+2018-2024,hhi,0.0444,,,,88,88,"Rank-1 Herfindahl index. A resampled percentile interval sits above this estimate, because drawing the same ranking twice shrinks the winner set, so no interval is reported."
+2018-2024,top5_share,0.3295,,,,88,88,"Share of rankings held by the five most frequent rank-1 firms inside that snapshot window. The same resampling problem applies, so no interval is reported."
+2018-2024,two_firm_share,0.2273,0.1477,0.3182,20.0,88,88,Rankings with exactly two firms.
+2018-2024,mean_field,2.7955,2.6932,2.8864,246.0,88,88,Mean firms on the published list.
+2018-2024,mixed_competitions,32.0,,,32.0,88,88,Lists that include both a firm with an earlier rank-1 result and a firm with none.
+2018-2024,incumbent_excess,0.1354,-0.0104,0.2682,,32,32,"On mixed lists, rank-1 frequency of firms with an earlier rank-1 result, minus their share of the list."
+2018-2024,zero_prior_rank1_rate,0.2162,0.0968,0.3333,8.0,37,88,Appearances with no earlier rank-1 result in this archive. Early years are left-censored.
+2018-2024,any_prior_rank1_rate,0.3828,0.3581,0.4091,80.0,209,88,Appearances with at least one earlier rank-1 result.
+2018-2024,ma_hq_share_of_located_rank1,0.7848,0.6962,0.8608,62.0,79,88,2026 headquarters among rank-1 firms with a verified location. Unknown locations are out of this denominator.
+2018-2024,rank1_location_unknown,0.1023,,,9.0,88,88,Share of rank-1 results with no verified 2026 headquarters.
+2018-2024,staff_201_share_of_banded_rank1,0.1392,0.0633,0.2278,11.0,79,88,2026 staff band among rank-1 firms with a verified band. A band is not the firm's size at the selection.
+2018-2024,rank1_staff_unknown,0.1023,,,9.0,88,88,Share of rank-1 results with no verified 2026 staff band.
+2018-2024,dominant_known_school_type,0.5422,,,45.0,83,88,Most common corrected school type among competitions with a stated grade: elementary.
+2018-2024,ma_hq_share_of_located_finalists,0.7488,0.6923,0.8077,155.0,207,88,2026 Massachusetts headquarters among finalist slots with a verified location.
+2018-2024,staff_201_share_of_banded_finalists,0.1256,0.0829,0.169,26.0,207,88,2026 staff band of 201 or more among finalist slots with a verified band.
+2025-2026,competitions,24.0,,,24.0,24,24,Model sample. 2026 is partial through 2026-09-22.
+2025-2026,unique_winners,16.0,,,16.0,24,24,Distinct rank-1 firm ids.
+2025-2026,hhi,0.0729,,,,24,24,"Rank-1 Herfindahl index. A resampled percentile interval sits above this estimate, because drawing the same ranking twice shrinks the winner set, so no interval is reported."
+2025-2026,top5_share,0.4583,,,,24,24,"Share of rankings held by the five most frequent rank-1 firms inside that snapshot window. The same resampling problem applies, so no interval is reported."
+2025-2026,two_firm_share,0.2083,0.0833,0.375,5.0,24,24,Rankings with exactly two firms.
+2025-2026,mean_field,2.7917,2.625,2.9167,67.0,24,24,Mean firms on the published list.
+2025-2026,mixed_competitions,10.0,,,10.0,24,24,Lists that include both a firm with an earlier rank-1 result and a firm with none.
+2025-2026,incumbent_excess,0.3167,0.1333,0.4333,,10,10,"On mixed lists, rank-1 frequency of firms with an earlier rank-1 result, minus their share of the list."
+2025-2026,zero_prior_rank1_rate,0.0833,0.0,0.2353,1.0,12,24,Appearances with no earlier rank-1 result in this archive. Early years are left-censored.
+2025-2026,any_prior_rank1_rate,0.4182,0.375,0.4783,23.0,55,24,Appearances with at least one earlier rank-1 result.
+2025-2026,ma_hq_share_of_located_rank1,0.7727,0.5909,0.9545,17.0,22,24,2026 headquarters among rank-1 firms with a verified location. Unknown locations are out of this denominator.
+2025-2026,rank1_location_unknown,0.0833,,,2.0,24,24,Share of rank-1 results with no verified 2026 headquarters.
+2025-2026,staff_201_share_of_banded_rank1,0.1818,0.0455,0.3636,4.0,22,24,2026 staff band among rank-1 firms with a verified band. A band is not the firm's size at the selection.
+2025-2026,rank1_staff_unknown,0.0833,,,2.0,24,24,Share of rank-1 results with no verified 2026 staff band.
+2025-2026,dominant_known_school_type,0.5217,,,12.0,23,24,Most common corrected school type among competitions with a stated grade: elementary.
+2025-2026,ma_hq_share_of_located_finalists,0.7115,0.5789,0.8302,37.0,52,24,2026 Massachusetts headquarters among finalist slots with a verified location.
+2025-2026,staff_201_share_of_banded_finalists,0.25,0.1509,0.3529,13.0,52,24,2026 staff band of 201 or more among finalist slots with a verified band.

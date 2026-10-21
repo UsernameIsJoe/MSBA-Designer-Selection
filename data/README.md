@@ -46,7 +46,7 @@ Across the HTML archive there are 731 final-ranking firm rows, of which 246 are 
 
 Firm names in the meeting rows are copied as printed. `processed/firms.csv` is the firm directory. Company details from the added firm file are matched onto that directory and also kept, one research row per name, in `reference/firm_company.csv`. The older list counts, which counted an applicant list and a later ranking as two tries, stay in `archive/firm_info.csv`. Teams and a few predecessor names stay separate.
 
-`processed/dsp_roster_inferred.csv` records an inferred panel list supplied on October 20, 2026. Each era rests on one snapshot and is carried across the other years in that era. The 2007 names are inferred backward from the 2008–2009 roster. The 2018–2024 snapshot may include staff or alternates. The 2013 building-trades seat is recorded as vacant. The file does not say who voted, and it does not name the three local members on each project.
+`processed/dsp_roster_inferred.csv` records an inferred panel list supplied on October 20, 2026. Each era rests on one snapshot and is carried across the other years in that era. The 2007 names are inferred backward from the 2008–2009 roster. The 2018–2024 snapshot may include staff or alternates. The 2013 building-trades seat is recorded as vacant. The file does not say who voted, and it does not name the three local members on each project. The audit of those snapshots is `reports/05_panel_history.md`.
 
 ## Can these records support the five questions?
 
@@ -64,4 +64,4 @@ MSBA’s public-records page lists “Designer Selection Panel information” an
 
 ## Not done
 
-Rank-1 concentration, archive-newcomer counts, and field size are reported in `reports/01_market_structure.md`. Voting, qualifications, and written justifications are not measured. No public-records request was sent. The inferred roster in `processed/dsp_roster_inferred.csv` is still not a ballot.
+Rank-1 concentration, archive-newcomer counts, and field size are reported in `reports/01_market_structure.md`. Present-day staff, headquarters, and age are in `reports/02_firm_characteristics.md`. Earlier rank-1 results and school-type experience are in `reports/03_incumbency_specialization.md`. Applicant-to-interview rates from the 2025–2026 chart are in `reports/04_selection_stages.md`. Snapshot overlap and rankings during the years each roster snapshot covers are in `reports/05_panel_history.md`. The public cost files, and why they were not used as a performance history, are in `reports/06_project_performance.md`. The combined findings are in `reports/MSBA_RESEARCH_SYNTHESIS.md`. Voting, qualifications, and written justifications are not measured. No public-records request was sent. The inferred roster in `processed/dsp_roster_inferred.csv` is still not a ballot.

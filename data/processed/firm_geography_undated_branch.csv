@@ -1,0 +1,5 @@
+category,label,competitions,excess,excess_low,excess_high
+boston_hq,Boston headquarters,218,-0.0566,-0.104,-0.0103
+ma_outside_boston,Massachusetts headquarters outside Boston,218,0.0757,0.0263,0.1285
+out_of_state_boston_branch,"Out-of-state headquarters, Boston branch open",218,-0.0256,-0.0547,0.0035
+out_of_state_no_branch,"Out-of-state headquarters, no Boston office",218,0.0065,-0.0248,0.0375

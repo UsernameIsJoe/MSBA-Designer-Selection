@@ -1,0 +1,149 @@
+project_id,firm_id,firm_raw,canonical_key,joint_venture,disqualified,application_rank,category,status,shortlisted,rank1,prior_wins_review,prior_finals_review,prior_same_wins_review,prior_wins_interview,prior_finals_interview,prior_same_wins_interview,lookalike_extra_wins,staff_group,geo
+chart-001,f_e546323383,Arrowstreet,arrowstreet,0,0,3,high,interview_ranked,1,0,6,16,0,6,16,0,0,51-200,boston_hq
+chart-001,f_470ec1ec17,"Finegold Alexander Architects, Inc.",finegold alexander,0,0,2,high,interview_ranked,1,1,3,15,1,3,15,1,0,11-50,boston_hq
+chart-001,f_e3a453551d,HMFH Architects,hmfh architects,0,0,,high,interview_ranked,0,0,17,28,4,17,28,4,0,11-50,ma_outside_boston
+chart-001,f_5bb0de6098,"Kaestle Boos Associates, Inc.",kaestle boos associates,0,0,1,high,interview_ranked,1,0,6,33,3,6,33,3,0,,unknown
+chart-001,f_b4040c5d8f,Turowski 2,turowski2,0,0,,high,interview_ranked,0,0,0,0,0,0,0,0,6,,unknown
+chart-002,f_e546323383,Arrowstreet,arrowstreet,0,0,,elementary,interview_ranked,0,0,6,17,5,6,17,5,0,51-200,boston_hq
+chart-002,f_470ec1ec17,"Finegold Alexander Architects, Inc.",finegold alexander,0,0,,elementary,interview_ranked,0,0,4,16,1,4,16,1,0,11-50,boston_hq
+chart-002,f_db80c70a7f,Lamoureux Pagano Associates Architects,lamoureux pagano,0,0,1,elementary,interview_ranked,1,1,12,28,2,12,28,2,0,11-50,ma_outside_boston
+chart-002,f_f3754461b4,Miller Dyer Spears Inc.,miller dyer spears,0,0,2,elementary,interview_ranked,1,0,3,18,1,3,18,1,0,11-50,boston_hq
+chart-002,f_34bdcec244,"Raymond Design Associates, Inc.",raymond design,0,0,3,elementary,interview_ranked,1,0,9,26,4,9,26,4,0,11-50,ma_outside_boston
+chart-004,f_5bb0de6098,"Kaestle Boos Associates, Inc.",kaestle boos associates,0,0,,high,interview_ranked,1,1,6,34,3,6,34,3,0,,unknown
+chart-004,f_02ca1c59a0,Mount Vernon Group Architects in association with Moody Nolan,mount vernon group architects in association with moody nolan,1,0,,high,interview_ranked,1,0,0,0,0,0,0,0,0,,unknown
+chart-004,f_dac2822d39,"Perkins & Will, Inc.",perkins and will,0,0,,high,interview_ranked,1,0,5,15,4,5,15,4,0,201+,out_of_state_branch_undated
+chart-005,f_e546323383,Arrowstreet,arrowstreet,0,0,,middle,interview_ranked,1,0,6,17,0,6,17,0,0,51-200,boston_hq
+chart-005,f_0a77379ca5,Dore + Whittier,dore and whittier,0,0,,middle,interview_ranked,1,0,18,42,2,18,42,2,0,51-200,out_of_state_no_branch
+chart-005,f_e3a453551d,HMFH Architects,hmfh architects,0,0,,middle,interview_ranked,1,1,17,28,1,17,28,1,0,11-50,ma_outside_boston
+chart-007,f_fdca913eb7,"JCJ Architecture, PC",jcj,0,0,1,elementary,interview_ranked,1,0,8,27,5,8,27,5,0,51-200,out_of_state_boston_branch
+chart-007,f_f3754461b4,Miller Dyer Spears Inc.,miller dyer spears,0,0,,elementary,interview_ranked,0,0,3,19,1,3,19,1,0,11-50,boston_hq
+chart-007,f_a4ffc25c6a,"Mount Vernon Group Architects, Inc.",mount vernon group,0,0,2,elementary,interview_ranked,1,1,10,42,7,10,42,7,0,11-50,ma_outside_boston
+chart-007,f_95f3419695,Saam Architecture,saam architecture,0,0,,elementary,interview_ranked,0,0,1,1,1,1,1,1,0,,unknown
+chart-007,f_233c290340,S/L/A/M Collaborative,slam,0,0,3,elementary,interview_ranked,0,0,0,3,0,0,3,0,0,201+,out_of_state_branch_undated
+chart-007,f_617a23282e,Tecton Architects,tecton architects,0,0,,elementary,interview_ranked,0,0,0,1,0,0,1,0,0,,out_of_state_no_branch
+chart-008,f_fdca913eb7,"JCJ Architecture, PC",jcj,0,0,1,elementary,interview_ranked,1,1,8,27,5,8,28,5,0,51-200,out_of_state_boston_branch
+chart-008,f_09a27e457b,LaVallee Brensigner,lavallee brensinger,0,0,2,elementary,interview_ranked,1,0,1,1,1,1,1,1,2,,unknown
+chart-008,f_3232600d7d,Maryann Thompson Architects,maryann thompson architects,0,0,2,elementary,interview_ranked,1,0,0,1,0,0,1,0,0,,unknown
+chart-009,f_30d6babd99,DiNisco Design,dinisco design,0,0,1,elementary,application_ranked_no_interview,,1,15,25,10,15,25,10,0,11-50,boston_hq
+chart-009,f_233c290340,S/L/A/M Collaborative,slam,0,0,3,elementary,application_ranked_no_interview,,0,0,3,0,0,3,0,0,201+,out_of_state_branch_undated
+chart-009,f_617a23282e,Tecton Architects,tecton architects,0,0,2,elementary,application_ranked_no_interview,,0,0,1,0,0,1,0,0,,out_of_state_no_branch
+chart-010,f_282401311f,"Ai3 Architects, LLC",ai3 architects,0,0,1,middle,interview_ranked,1,1,12,17,8,12,17,8,0,11-50,ma_outside_boston
+chart-010,f_e546323383,Arrowstreet,arrowstreet,0,0,3,middle,interview_ranked,0,0,6,18,0,6,18,0,0,51-200,boston_hq
+chart-010,f_7df32c01d5,Flansburg Architects,flansburg architects,0,0,,middle,interview_ranked,0,0,0,0,0,0,0,0,10,,unknown
+chart-010,f_fdca913eb7,"JCJ Architecture, PC",jcj,0,0,,middle,interview_ranked,0,0,9,29,0,9,29,0,0,51-200,out_of_state_boston_branch
+chart-010,f_a4ffc25c6a,"Mount Vernon Group Architects, Inc.",mount vernon group,0,0,,middle,interview_ranked,0,0,11,43,0,11,43,0,0,11-50,ma_outside_boston
+chart-010,f_5d25998af5,"Tappe Architects, Inc.",tappe,0,0,2,middle,interview_ranked,1,0,14,28,3,14,28,3,0,11-50,boston_hq
+chart-011,f_87097bdfc4,"Jonathan Levi Architects, LLC",jonathan levi,0,0,,unspecified,interview_ranked,0,0,4,15,0,4,15,0,0,,unknown
+chart-011,f_09c9ae5963,"Machado and Silvetti Associates, LLC",machado and silvetti associates,0,0,,unspecified,interview_ranked,0,0,1,1,0,1,1,0,0,11-50,boston_hq
+chart-011,f_f3754461b4,Miller Dyer Spears Inc.,miller dyer spears,0,0,1,unspecified,interview_ranked,1,0,3,19,0,3,19,0,0,11-50,boston_hq
+chart-011,f_5e68feabfd,Perkins Eastman,perkins eastman,0,0,2,unspecified,interview_ranked,1,1,4,11,0,4,11,0,0,201+,out_of_state_branch_undated
+chart-011,f_f73542595a,TSKP Studio,tskp studio,0,0,,unspecified,interview_ranked,0,0,3,10,0,3,10,0,0,11-50,out_of_state_no_branch
+chart-011,f_c50e90c627,"William Rawn Associations, Architects, Inc.",william rawn associations architects,0,0,2,unspecified,interview_ranked,1,0,0,0,0,0,0,0,0,,unknown
+chart-012,f_282401311f,"Ai3 Architects, LLC",ai3 architects,0,0,1,high,interview_ranked,1,0,13,18,3,13,18,3,0,11-50,ma_outside_boston
+chart-012,f_b81fe02092,"DLR Group, Inc.",dlr group,0,0,,high,interview_ranked,0,0,0,0,0,0,0,0,0,201+,unknown
+chart-012,f_dac2822d39,"Perkins & Will, Inc.",perkins and will,0,0,2,high,interview_ranked,1,0,5,16,4,5,16,4,0,201+,out_of_state_branch_undated
+chart-012,f_e47b019976,SMMA,symmes maini and mckee associates,0,0,1,high,interview_ranked,1,1,18,36,6,18,36,6,0,201+,ma_outside_boston
+chart-013,f_18dc651e15,Icon Architecture,icon architecture,0,0,,high,interview_ranked,0,0,0,0,0,0,0,0,0,,boston_hq
+chart-013,f_f3754461b4,Miller Dyer Spears Inc.,miller dyer spears,0,0,2,high,interview_ranked,1,0,3,20,0,3,20,0,0,11-50,boston_hq
+chart-013,f_34bdcec244,"Raymond Design Associates, Inc.",raymond design,0,0,1,high,interview_ranked,1,1,9,27,1,9,27,1,0,11-50,ma_outside_boston
+chart-013,f_233c290340,S/L/A/M Collaborative,slam,0,0,3,high,interview_ranked,1,0,0,4,0,0,4,0,0,201+,out_of_state_branch_undated
+chart-014,f_7df32c01d5,Flansburg Architects,flansburg architects,0,0,1,elementary,interview_ranked,1,1,0,0,0,0,0,0,10,,unknown
+chart-014,f_09a27e457b,LaVallee Brensigner,lavallee brensinger,0,0,2,elementary,interview_ranked,1,0,1,2,1,1,2,1,2,,unknown
+chart-014,f_3232600d7d,Maryann Thompson Architects,maryann thompson architects,0,0,2,elementary,interview_ranked,1,0,0,2,0,0,2,0,0,,unknown
+chart-014,f_34bdcec244,"Raymond Design Associates, Inc.",raymond design,0,0,,elementary,interview_ranked,0,0,9,27,4,10,28,4,0,11-50,ma_outside_boston
+chart-014,f_f73542595a,TSKP Studio,tskp studio,0,0,,elementary,interview_ranked,0,0,3,10,3,3,10,3,0,11-50,out_of_state_no_branch
+chart-015,f_e546323383,"Arrowstreet, Inc.",arrowstreet,0,0,1,elementary,interview_ranked,1,1,6,18,5,6,18,5,0,51-200,boston_hq
+chart-015,f_b81fe02092,"DLR Group, Inc.",dlr group,0,0,,elementary,interview_ranked,0,0,0,0,0,0,0,0,0,201+,unknown
+chart-015,f_5bb0de6098,"Kaestle Boos Associates, Inc.",kaestle boos associates,0,0,,elementary,interview_ranked,0,0,7,35,1,7,35,1,0,,unknown
+chart-015,f_34bdcec244,"Raymond Design Associates, Inc.",raymond design,0,0,,elementary,interview_ranked,0,0,10,28,4,10,28,4,0,11-50,ma_outside_boston
+chart-015,f_95f3419695,Saam Architecture,saam architecture,0,0,3,elementary,interview_ranked,0,0,1,1,1,1,1,1,0,,unknown
+chart-015,f_233c290340,S/L/A/M Collaborative,slam,0,0,2,elementary,interview_ranked,1,0,0,5,0,0,5,0,0,201+,out_of_state_branch_undated
+chart-015,f_617a23282e,Tecton Architects,tecton architects,0,0,,elementary,interview_ranked,0,0,0,2,0,0,2,0,0,,out_of_state_no_branch
+chart-015,f_7b5bae9929,"Turowski2 Architecture, Inc.",turowski2 architecture,0,0,,elementary,interview_ranked,0,0,6,19,5,6,19,5,0,11-50,ma_outside_boston
+chart-016,f_e546323383,"Arrowstreet, Inc.",arrowstreet,0,0,3,elementary,interview_unfinished,1,,6,18,5,7,19,6,0,51-200,boston_hq
+chart-016,f_09c9ae5963,"Machado and Silvetti Associates, LLC",machado and silvetti associates,0,0,4,elementary,interview_unfinished,1,,1,1,1,1,1,1,0,11-50,boston_hq
+chart-016,f_233c290340,S/L/A/M Collaborative,slam,0,0,2,elementary,interview_unfinished,1,,0,5,0,0,6,0,0,201+,out_of_state_branch_undated
+chart-016,f_7b5bae9929,"Turowski2 Architecture, Inc.",turowski2 architecture,0,0,1,elementary,interview_unfinished,1,,6,19,5,6,19,5,0,11-50,ma_outside_boston
+chart-017,f_e3a453551d,HMFH Architects,hmfh architects,0,0,1,high,interview_ranked,1,1,18,29,4,18,29,4,0,11-50,ma_outside_boston
+chart-017,f_fdca913eb7,"JCJ Architecture, PC",jcj,0,0,,high,interview_ranked,0,0,9,29,1,9,29,1,0,51-200,out_of_state_boston_branch
+chart-017,f_5bb0de6098,"Kaestle Boos Associates, Inc.",kaestle boos associates,0,0,2,high,interview_ranked,1,0,7,35,4,7,35,4,0,,unknown
+chart-017,f_f3754461b4,Miller Dyer Spears Inc.,miller dyer spears,0,0,,high,interview_ranked,0,0,3,21,0,3,21,0,0,11-50,boston_hq
+chart-017,f_5d25998af5,"Tappe Architects, Inc.",tappe,0,0,,high,interview_ranked,0,0,14,29,5,14,29,5,0,11-50,boston_hq
+chart-018,f_470ec1ec17,"Finegold Alexander Architects, Inc.",finegold alexander,0,0,,elementary,interview_ranked,0,0,4,16,1,4,16,1,0,11-50,boston_hq
+chart-018,f_87097bdfc4,"Jonathan Levi Architects, LLC",jonathan levi,0,0,,elementary,interview_ranked,0,0,4,15,2,4,15,2,0,,unknown
+chart-018,f_09c9ae5963,"Machado and Silvetti Associates, LLC",machado and silvetti associates,0,0,,elementary,interview_ranked,0,0,1,1,1,1,1,1,0,11-50,boston_hq
+chart-018,f_f3754461b4,Miller Dyer Spears Inc.,miller dyer spears,0,0,2,elementary,interview_ranked,1,0,3,21,1,3,21,1,0,11-50,boston_hq
+chart-018,f_e4eccbc7a6,Moody Nolan,moody nolan,0,0,3,elementary,interview_ranked,0,0,0,1,0,0,1,0,0,,unknown
+chart-018,f_95f3419695,Saam Architecture,saam architecture,0,0,2,elementary,interview_ranked,1,0,1,1,1,1,1,1,0,,unknown
+chart-018,f_5d25998af5,"Tappe Architects, Inc.",tappe,0,0,1,elementary,interview_ranked,1,1,14,29,4,14,29,4,0,11-50,boston_hq
+chart-019,f_0a77379ca5,Dore + Whittier,dore and whittier,0,0,1,elementary,interview_ranked,1,0,18,43,9,18,43,9,0,51-200,out_of_state_no_branch
+chart-019,f_470ec1ec17,"Finegold Alexander Architects, Inc.",finegold alexander,0,0,,elementary,interview_ranked,0,0,4,16,1,4,16,1,0,11-50,boston_hq
+chart-019,f_fdca913eb7,"JCJ Architecture, PC",jcj,0,0,2,elementary,interview_ranked,1,0,9,29,6,9,29,6,0,51-200,out_of_state_boston_branch
+chart-019,f_b7c042c2cf,LaVallee Brensigner Architects,lavallee brensinger architects,0,0,3,elementary,interview_ranked,1,1,2,9,1,2,9,1,0,51-200,out_of_state_boston_branch
+chart-019,f_3232600d7d,Maryann Thompson Architects,maryann thompson architects,0,0,,elementary,interview_ranked,0,0,0,3,0,0,3,0,0,,unknown
+chart-019,f_95f3419695,Saam Architecture,saam architecture,0,0,,elementary,interview_ranked,0,0,1,1,1,1,2,1,0,,unknown
+chart-019,f_5d25998af5,"Tappe Architects, Inc.",tappe,0,0,,elementary,interview_ranked,0,0,14,29,4,15,30,5,0,11-50,boston_hq
+chart-019,f_617a23282e,"Tecton Architects, PC",tecton architects,0,0,,elementary,interview_ranked,0,0,0,2,0,0,2,0,0,,out_of_state_no_branch
+chart-019,f_f73542595a,TSKP Studio,tskp studio,0,0,,elementary,interview_ranked,0,0,3,10,3,3,10,3,0,11-50,out_of_state_no_branch
+chart-020,f_e546323383,"Arrowstreet, Inc.",arrowstreet,0,0,2,elementary,interview_ranked,1,1,7,19,6,7,19,6,0,51-200,boston_hq
+chart-020,f_643459c5db,"CBT/Childs Bertman Tseckares, Inc.",cbt childs bertman tseckares,0,0,3,elementary,interview_ranked,1,0,0,4,0,0,4,0,0,201+,boston_hq
+chart-020,f_87097bdfc4,"Jonathan Levi Architects, LLC",jonathan levi,0,0,,elementary,interview_ranked,0,0,4,15,2,4,15,2,0,,unknown
+chart-020,f_5bb0de6098,"Kaestle Boos Associates, Inc.",kaestle boos associates,0,0,,elementary,interview_ranked,0,0,7,36,1,7,36,1,0,,unknown
+chart-020,f_09c9ae5963,"Machado and Silvetti Associates, LLC",machado and silvetti associates,0,0,1,elementary,interview_ranked,1,0,1,1,1,1,1,1,0,11-50,boston_hq
+chart-020,f_95f3419695,Saam Architecture,saam architecture,0,0,,elementary,interview_ranked,0,0,1,2,1,1,2,1,0,,unknown
+chart-020,f_a694f93315,"Sasaki Architects, PC",sasaki architects,0,0,,elementary,interview_ranked,0,0,0,0,0,0,0,0,0,,boston_hq
+chart-020,f_df69690801,"Utile, Inc.",utile,0,1,,elementary,interview_ranked,0,0,0,0,0,0,0,0,0,51-200,boston_hq
+chart-021,f_282401311f,"Ai3 Architects, LLC",ai3 architects,0,0,2,high,interview_ranked,1,0,13,19,3,13,19,3,0,11-50,ma_outside_boston
+chart-021,f_470ec1ec17,"Finegold Alexander Architects, Inc.",finegold alexander,0,0,,high,interview_ranked,0,0,4,16,2,4,16,2,0,11-50,boston_hq
+chart-021,f_87097bdfc4,"Jonathan Levi Architects, LLC",jonathan levi,0,0,,high,interview_ranked,0,0,4,15,0,4,15,0,0,,unknown
+chart-021,f_a4ffc25c6a,"Mount Vernon Group Architects, Inc.",mount vernon group,0,0,3,high,interview_ranked,1,0,11,43,1,11,43,1,0,11-50,ma_outside_boston
+chart-021,f_dac2822d39,"Perkins & Will, Inc.",perkins and will,0,0,,high,interview_ranked,0,0,5,17,4,5,17,4,0,201+,out_of_state_branch_undated
+chart-021,f_5e68feabfd,Perkins Eastman,perkins eastman,0,0,1,high,interview_ranked,1,1,5,12,0,5,12,0,0,201+,out_of_state_branch_undated
+chart-022,f_282401311f,"Ai3 Architects, LLC",ai3 architects,0,0,1,high,interview_ranked,1,0,13,19,3,13,20,3,0,11-50,ma_outside_boston
+chart-022,f_5bb0de6098,"Kaestle Boos Associates, Inc.",kaestle boos associates,0,0,2,high,interview_ranked,1,0,7,36,4,7,36,4,0,,unknown
+chart-022,f_db80c70a7f,Lamoureux Pagano Associates Architects,lamoureux pagano,0,0,1,high,interview_ranked,1,1,13,29,3,13,29,3,0,11-50,ma_outside_boston
+chart-022,f_34bdcec244,"Raymond Design Associates, Inc.",raymond design,0,0,,high,interview_ranked,0,0,10,28,2,10,28,2,0,11-50,ma_outside_boston
+chart-022,f_233c290340,S/L/A/M Collaborative,slam,0,0,,high,interview_ranked,0,0,0,6,0,0,6,0,0,201+,out_of_state_branch_undated
+chart-023,f_0a77379ca5,Dore + Whittier,dore and whittier,0,0,1,high,sole_applicant_no_interview,,,18,44,4,18,44,4,0,51-200,out_of_state_no_branch
+chart-024,f_0a77379ca5,Dore + Whittier,dore and whittier,0,0,1,middle,interview_ranked,1,1,18,44,2,18,44,2,0,51-200,out_of_state_no_branch
+chart-024,f_470ec1ec17,"Finegold Alexander Architects, Inc.",finegold alexander,0,0,3,middle,interview_ranked,1,0,4,16,1,4,16,1,0,11-50,boston_hq
+chart-024,f_233c290340,S/L/A/M Collaborative,slam,0,0,,middle,interview_ranked,0,0,0,6,0,0,6,0,0,201+,out_of_state_branch_undated
+chart-024,f_e47b019976,SMMA,symmes maini and mckee associates,0,0,2,middle,interview_ranked,1,0,19,37,0,19,37,0,0,201+,ma_outside_boston
+chart-025,f_e3a453551d,HMFH Architects,hmfh architects,0,0,1,high,interview_unfinished,1,,19,30,5,19,30,5,0,11-50,ma_outside_boston
+chart-025,f_5bb0de6098,"Kaestle Boos Associates, Inc.",kaestle boos associates,0,0,2,high,interview_unfinished,1,,7,37,4,7,37,4,0,,unknown
+chart-025,f_a4ffc25c6a,Mount Vernon Group Architects,mount vernon group,0,0,,high,interview_unfinished,0,,11,44,1,11,44,1,0,11-50,ma_outside_boston
+chart-025,f_dac2822d39,"Perkins & Will, Inc.",perkins and will,0,0,3,high,interview_unfinished,0,,5,17,4,5,17,4,0,201+,out_of_state_branch_undated
+chart-026,f_b81fe02092,"DLR Group, Inc.",dlr group,0,0,,elementary,interview_ranked,0,0,0,0,0,0,0,0,0,201+,unknown
+chart-026,f_470ec1ec17,"Finegold Alexander Architects, Inc.",finegold alexander,0,0,2,elementary,interview_ranked,1,1,4,17,1,4,17,1,0,11-50,boston_hq
+chart-026,f_87097bdfc4,"Jonathan Levi Architects, LLC",jonathan levi,0,0,,elementary,interview_ranked,0,0,4,15,2,4,15,2,0,,unknown
+chart-026,f_f3754461b4,Miller Dyer Spears Inc.,miller dyer spears,0,0,1,elementary,interview_ranked,1,0,3,22,1,3,22,1,0,11-50,boston_hq
+chart-026,f_34bdcec244,"Raymond Design Associates, Inc.",raymond design,0,0,3,elementary,interview_ranked,1,0,10,28,4,10,28,4,0,11-50,ma_outside_boston
+chart-026,f_95f3419695,Saam Architecture,saam architecture,0,0,,elementary,interview_ranked,0,0,1,2,1,1,2,1,0,,unknown
+chart-026,f_233c290340,S/L/A/M Collaborative,slam,0,0,,elementary,interview_ranked,0,0,0,6,0,0,6,0,0,201+,out_of_state_branch_undated
+chart-027,f_87097bdfc4,"Jonathan Levi Architects, LLC",jonathan levi,0,0,2,high,interview_ranked,0,0,4,15,0,4,15,0,0,,unknown
+chart-027,f_5bb0de6098,"Kaestle Boos Associates, Inc.",kaestle boos associates,0,0,1,high,interview_ranked,1,0,7,37,4,7,37,4,0,,unknown
+chart-027,f_442173657d,Leers Weinsapfel Associates,leers weinsapfel associates,0,0,,high,interview_ranked,0,0,0,0,0,0,0,0,0,,unknown
+chart-027,f_233c290340,S/L/A/M Collaborative,slam,0,0,3,high,interview_ranked,0,0,0,6,0,0,6,0,0,201+,out_of_state_branch_undated
+chart-027,f_e47b019976,SMMA,symmes maini and mckee associates,0,0,1,high,interview_ranked,1,1,19,38,7,19,38,7,0,201+,ma_outside_boston
+chart-028,f_b81fe02092,"DLR Group, Inc.",dlr group,0,0,,elementary,interview_unfinished,0,,0,0,0,0,0,0,0,201+,unknown
+chart-028,f_9b0a94bec8,"Drummey Rosane Anderson, Inc.",drummey rosane anderson,0,0,2,elementary,interview_unfinished,1,,21,44,5,21,44,5,0,11-50,ma_outside_boston
+chart-028,f_a50ea7104a,Jones Whitsett Associates,jones whitsett associates,0,0,,elementary,interview_unfinished,0,,0,0,0,0,0,0,0,,unknown
+chart-028,f_514f30b12e,"Machado Silvetti Associates, LLC",machado silvetti associates,0,0,3,elementary,interview_unfinished,1,,0,0,0,0,0,0,1,,unknown
+chart-028,f_a4ffc25c6a,"Mount Vernon Group Architects, Inc.",mount vernon group,0,0,4,elementary,interview_unfinished,1,,11,44,8,11,44,8,0,11-50,ma_outside_boston
+chart-028,f_233c290340,S/L/A/M Collaborative,slam,0,1,,elementary,interview_unfinished,0,,0,6,0,0,6,0,0,201+,out_of_state_branch_undated
+chart-028,f_f73542595a,TSKP Studio,tskp studio,0,0,1,elementary,interview_unfinished,1,,3,10,3,3,10,3,0,11-50,out_of_state_no_branch
+chart-029,f_282401311f,"Ai3 Architects, LLC",ai3 architects,0,0,1,elementary,interview_ranked,1,1,13,21,0,13,21,0,0,11-50,ma_outside_boston
+chart-029,f_643459c5db,"CBT/Childs Bertman Tseckares, Inc.",cbt childs bertman tseckares,0,0,3,elementary,interview_ranked,1,0,0,5,0,0,5,0,0,201+,boston_hq
+chart-029,f_34bdcec244,"Raymond Design Associates, Inc.",raymond design,0,0,2,elementary,interview_ranked,1,0,10,29,4,10,29,4,0,11-50,ma_outside_boston
+chart-029,f_233c290340,S/L/A/M Collaborative,slam,0,0,,elementary,interview_ranked,0,0,0,6,0,0,6,0,0,201+,out_of_state_branch_undated
+chart-030,f_282401311f,"Ai3 Architects, LLC",ai3 architects,0,0,1,elementary,interview_ranked,1,1,13,21,0,14,22,1,0,11-50,ma_outside_boston
+chart-030,f_b81fe02092,"DLR Group, Inc.",dlr group,0,0,3,elementary,interview_ranked,1,0,0,0,0,0,0,0,0,201+,unknown
+chart-030,f_470ec1ec17,"Finegold Alexander Architects, Inc.",finegold alexander,0,0,,elementary,interview_ranked,0,0,5,18,2,5,18,2,0,11-50,boston_hq
+chart-030,f_fdca913eb7,"JCJ Architecture, PC",jcj,0,0,,elementary,interview_ranked,0,0,9,30,6,9,30,6,0,51-200,out_of_state_boston_branch
+chart-030,f_87097bdfc4,"Jonathan Levi Architects, LLC",jonathan levi,0,0,2,elementary,interview_ranked,1,0,4,15,2,4,15,2,0,,unknown
+chart-030,f_95f3419695,Saam Architecture,saam architecture,0,0,,elementary,interview_ranked,0,0,1,2,1,1,2,1,0,,unknown
+chart-030,f_233c290340,S/L/A/M Collaborative,slam,0,0,,elementary,interview_ranked,0,0,0,6,0,0,6,0,0,201+,out_of_state_branch_undated
+chart-031,f_e546323383,"Arrowstreet, Inc.",arrowstreet,0,0,1,elementary,interview_unfinished,1,,8,20,7,8,20,7,0,51-200,boston_hq
+chart-031,f_b81fe02092,"DLR Group, Inc.",dlr group,0,0,1,elementary,interview_unfinished,1,,0,1,0,0,1,0,0,201+,unknown
+chart-031,f_87097bdfc4,"Jonathan Levi Architects, LLC",jonathan levi,0,0,2,elementary,interview_unfinished,0,,4,16,2,4,16,2,0,,unknown
+chart-031,f_233c290340,S/L/A/M Collaborative,slam,0,0,3,elementary,interview_unfinished,0,,0,6,0,0,6,0,0,201+,out_of_state_branch_undated

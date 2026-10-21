@@ -1,0 +1,50 @@
+{
+  "coverage": {
+    "finalist_rows": 788,
+    "firms": 76,
+    "competitions": 273,
+    "firms_with_staff_band": 35,
+    "rows_with_staff_band": 638,
+    "firms_with_primary_geography": 32,
+    "rows_with_primary_geography": 603,
+    "firms_with_age": 33,
+    "rows_with_age": 622,
+    "firms_nationwide_yes": 5
+  },
+  "size_contrast": {
+    "competitions": 219,
+    "competitions_with_unique_max": 120,
+    "winner_is_unique_max": 0.3667,
+    "random_finalist_baseline": 0.3944,
+    "unique_max_gap": -0.0278,
+    "unique_max_gap_low": -0.1131,
+    "unique_max_gap_high": 0.0598,
+    "winner_above_other_mean": 0.2146,
+    "winner_above_other_mean_low": 0.1598,
+    "winner_above_other_mean_high": 0.2694
+  },
+  "age_contrast": {
+    "competitions": 213,
+    "competitions_with_unique_max": 211,
+    "winner_is_unique_max": 0.3981,
+    "random_finalist_baseline": 0.4032,
+    "unique_max_gap": -0.0051,
+    "unique_max_gap_low": -0.0704,
+    "unique_max_gap_high": 0.0601,
+    "winner_above_other_mean": 0.5023,
+    "winner_above_other_mean_low": 0.4366,
+    "winner_above_other_mean_high": 0.5681
+  },
+  "budget_contrast": {
+    "competitions": 19,
+    "competitions_with_unique_max": 12,
+    "winner_is_unique_max": 0.1667,
+    "random_finalist_baseline": 0.4167,
+    "unique_max_gap": -0.25,
+    "unique_max_gap_low": -0.4375,
+    "unique_max_gap_high": -0.0185,
+    "winner_above_other_mean": 0.1053,
+    "winner_above_other_mean_low": 0.0,
+    "winner_above_other_mean_high": 0.2632
+  }
+}

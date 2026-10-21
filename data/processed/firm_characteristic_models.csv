@@ -1,0 +1,4 @@
+term,estimate,ci_low,ci_high,draws,competitions,rows,reference,model
+group_51-200,-0.111,-0.603,0.359,400,124,329,11-50,collapsed_staff_band
+group_201+,0.023,-0.486,0.471,400,124,329,11-50,collapsed_staff_band
+age_within_field,-0.013,-0.096,0.065,397,213,552,field mean age,age_per_10_years

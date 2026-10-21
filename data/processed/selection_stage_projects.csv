@@ -1,0 +1,30 @@
+project_id,district,school,category,application_review_date,interview_date,comments,status,applicants,shortlist_size,rank1_firm_id,raw_spelling_mismatches,finalists_missing_from_applicants
+chart-001,Swansea,Joseph Case Jr. HS,high,2025-01-14,2025-01-28,,interview_ranked,5,3,f_470ec1ec17,0,0
+chart-002,Marlborough,Richer ES,elementary,2025-02-11,2025-02-25,,interview_ranked,5,3,f_db80c70a7f,1,0
+chart-004,Brockton,Brockton HS,high,2025-04-08,2025-04-22,Shortlisted all applicants,interview_ranked,3,3,f_5bb0de6098,0,0
+chart-005,Needham,Pollard MS,middle,2025-05-06,2025-05-20,Shortlisted all applicants,interview_ranked,3,3,f_e3a453551d,0,0
+chart-007,South Hadley,Mosier ES,elementary,2025-07-15,2025-07-29,,interview_ranked,6,2,f_a4ffc25c6a,1,0
+chart-008,Manchester-Essex RSD,Essex ES,elementary,2025-07-29,2025-08-12,,interview_ranked,3,3,f_fdca913eb7,1,0
+chart-009,Springfield,Gerena ES,elementary,2025-08-12,2025-08-12,No interview,application_ranked_no_interview,3,0,f_30d6babd99,0,0
+chart-010,Chelmsford,Parker MS,middle,2025-08-26,2025-09-09,,interview_ranked,6,2,f_282401311f,1,0
+chart-011,Somerville,Winter Hill Innovation School,unspecified,2025-09-09,2025-09-25,,interview_ranked,6,3,f_5e68feabfd,0,0
+chart-012,Medford,Medford HS,high,2025-09-25,2025-10-07,,interview_ranked,4,3,f_e47b019976,1,0
+chart-013,Leicester,Leicester HS,high,2025-10-07,2025-10-21,,interview_ranked,4,3,f_34bdcec244,0,0
+chart-014,Northborough,Marguerite E. Peaslee ES,elementary,2025-10-21,2025-11-04,,interview_ranked,5,3,f_7df32c01d5,1,0
+chart-015,Dighton-Rehoboth,Dighton ES,elementary,2025-11-04,2025-11-18,,interview_ranked,8,2,f_e546323383,0,0
+chart-016,New Bedford,Charles S. Ashley ES,elementary,2025-11-18,2025-12-02,,interview_unfinished,4,4,,0,0
+chart-017,Milford,Milford HS,high,2026-01-13,2026-01-27,,interview_ranked,5,2,f_e3a453551d,0,0
+chart-018,Framingham,Hemenway ES,elementary,2026-01-27,2026-02-10,,interview_ranked,7,3,f_5d25998af5,0,0
+chart-019,Westford,Robinson ES,elementary,2026-02-10,2026-02-24,,interview_ranked,9,3,f_b7c042c2cf,0,0
+chart-020,Boston,Shaw-Taylor ES,elementary,2026-02-24,2026-03-10,,interview_ranked,8,3,f_e546323383,0,0
+chart-021,Everett,Everett HS,high,2026-03-10,2026-03-24,,interview_ranked,6,3,f_5e68feabfd,1,0
+chart-022,Worcester,Burncoat Senior HS,high,2026-03-24,2026-04-07,,interview_ranked,5,3,f_db80c70a7f,1,0
+chart-023,Triton,Triton Regional HS,high,2026-04-07,2026-04-07,No Interview,sole_applicant_no_interview,1,0,,0,0
+chart-024,Haverhill,John G. Whittier MS,middle,2026-04-21,2026-05-05,,interview_ranked,4,3,f_0a77379ca5,0,0
+chart-025,Peabody,Peabody HS,high,2026-06-16,2026-07-14,Panel voted to interview the top 2 candidates,interview_unfinished,4,2,,0,0
+chart-026,Medfield,Dale Street ES,elementary,2026-07-14,2026-07-28,,interview_ranked,7,3,f_470ec1ec17,1,0
+chart-027,Shrewsbury,Shrewsbury HS,high,2026-07-28,2026-08-11,Panel voted to interview the top 2 candidates,interview_ranked,5,2,f_e47b019976,0,0
+chart-028,Pittsfield,John C. Crosby Elementary School,elementary,2026-08-11,2026-08-25,Panel voted to interview top 4 candidates,interview_unfinished,7,4,,0,0
+chart-029,Plymouth,Hedge Elementary School,elementary,2026-08-25,2026-09-08,,interview_ranked,4,3,f_282401311f,0,0
+chart-030,Natick,Memorial Elementary School,elementary,2026-09-08,2026-09-22,,interview_ranked,7,3,f_282401311f,0,0
+chart-031,Milton,Cunningham Elementary School,elementary,2026-10-06,2026-10-20,panel voted to interview the top 2 candidates because they tied,interview_unfinished,4,2,,0,0

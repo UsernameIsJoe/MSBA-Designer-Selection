@@ -1,0 +1,187 @@
+{
+  "page": {
+    "october_2026_names": 18,
+    "process_page_appointed_members": 13,
+    "process_page_local_members": 3,
+    "seat_groups": {
+      "designee": 10,
+      "msba_staff": 5,
+      "public_member": 2,
+      "staff_alternate": 1
+    },
+    "names_not_labeled_staff": 12,
+    "names_labeled_staff": 5,
+    "staff_alternates": 1
+  },
+  "eras": [
+    {
+      "era": "2007-2009",
+      "year_start": 2007,
+      "year_end": 2009,
+      "confidence": "inferred",
+      "how_inferred": "2008\u20132009 official roster; 2007 inferred backward"
+    },
+    {
+      "era": "2010-2012",
+      "year_start": 2010,
+      "year_end": 2012,
+      "confidence": "carried-forward",
+      "how_inferred": "2010 official roster, carried forward through 2012"
+    },
+    {
+      "era": "2013-2017",
+      "year_start": 2013,
+      "year_end": 2017,
+      "confidence": "carried-forward",
+      "how_inferred": "2013 official roster, carried forward through 2017"
+    },
+    {
+      "era": "2018-2024",
+      "year_start": 2018,
+      "year_end": 2024,
+      "confidence": "uncertain",
+      "how_inferred": "2018 voting-record snapshot, carried forward through 2024"
+    },
+    {
+      "era": "2025-2026",
+      "year_start": 2025,
+      "year_end": 2026,
+      "confidence": "mixed",
+      "how_inferred": "2025 voting records combined with the October 2026 official roster"
+    }
+  ],
+  "overlap": [
+    {
+      "earlier_era": "2007-2009",
+      "later_era": "2010-2012",
+      "earlier_confidence": "inferred",
+      "later_confidence": "carried-forward",
+      "earlier_named": 12,
+      "later_named": 12,
+      "retained": 9,
+      "only_earlier": 3,
+      "only_later": 3,
+      "jaccard": 0.6
+    },
+    {
+      "earlier_era": "2010-2012",
+      "later_era": "2013-2017",
+      "earlier_confidence": "carried-forward",
+      "later_confidence": "carried-forward",
+      "earlier_named": 12,
+      "later_named": 12,
+      "retained": 8,
+      "only_earlier": 4,
+      "only_later": 4,
+      "jaccard": 0.5
+    },
+    {
+      "earlier_era": "2013-2017",
+      "later_era": "2018-2024",
+      "earlier_confidence": "carried-forward",
+      "later_confidence": "uncertain",
+      "earlier_named": 12,
+      "later_named": 13,
+      "retained": 8,
+      "only_earlier": 4,
+      "only_later": 5,
+      "jaccard": 0.4706
+    },
+    {
+      "earlier_era": "2018-2024",
+      "later_era": "2025-2026",
+      "earlier_confidence": "uncertain",
+      "later_confidence": "mixed",
+      "earlier_named": 13,
+      "later_named": 18,
+      "retained": 3,
+      "only_earlier": 10,
+      "only_later": 15,
+      "jaccard": 0.1071
+    }
+  ],
+  "contrasts": [
+    {
+      "earlier_era": "2007-2009",
+      "later_era": "2010-2012",
+      "metric": "two_firm_share",
+      "later_minus_earlier": 0.0244,
+      "low": -0.0667,
+      "high": 0.1154,
+      "earlier_competitions": 30,
+      "later_competitions": 52
+    },
+    {
+      "earlier_era": "2007-2009",
+      "later_era": "2010-2012",
+      "metric": "incumbent_excess",
+      "later_minus_earlier": -0.1379,
+      "low": -0.4275,
+      "high": 0.1727,
+      "earlier_competitions": 16,
+      "later_competitions": 27
+    },
+    {
+      "earlier_era": "2010-2012",
+      "later_era": "2013-2017",
+      "metric": "two_firm_share",
+      "later_minus_earlier": -0.0071,
+      "low": -0.0901,
+      "high": 0.0633,
+      "earlier_competitions": 52,
+      "later_competitions": 79
+    },
+    {
+      "earlier_era": "2010-2012",
+      "later_era": "2013-2017",
+      "metric": "incumbent_excess",
+      "later_minus_earlier": 0.1403,
+      "low": -0.1184,
+      "high": 0.3777,
+      "earlier_competitions": 27,
+      "later_competitions": 22
+    },
+    {
+      "earlier_era": "2013-2017",
+      "later_era": "2018-2024",
+      "metric": "two_firm_share",
+      "later_minus_earlier": 0.1766,
+      "low": 0.0818,
+      "high": 0.2815,
+      "earlier_competitions": 79,
+      "later_competitions": 88
+    },
+    {
+      "earlier_era": "2013-2017",
+      "later_era": "2018-2024",
+      "metric": "incumbent_excess",
+      "later_minus_earlier": -0.0388,
+      "low": -0.2526,
+      "high": 0.1781,
+      "earlier_competitions": 22,
+      "later_competitions": 32
+    },
+    {
+      "earlier_era": "2018-2024",
+      "later_era": "2025-2026",
+      "metric": "two_firm_share",
+      "later_minus_earlier": -0.0189,
+      "low": -0.1894,
+      "high": 0.1742,
+      "earlier_competitions": 88,
+      "later_competitions": 24
+    },
+    {
+      "earlier_era": "2018-2024",
+      "later_era": "2025-2026",
+      "metric": "incumbent_excess",
+      "later_minus_earlier": 0.1812,
+      "low": -0.0438,
+      "high": 0.3735,
+      "earlier_competitions": 32,
+      "later_competitions": 10
+    }
+  ],
+  "competitions": 273,
+  "unassigned": 0
+}

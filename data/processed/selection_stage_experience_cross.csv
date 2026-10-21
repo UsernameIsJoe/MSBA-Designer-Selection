@@ -1,0 +1,8 @@
+stage,earlier_rank1_results,same_type,rows,interviewed,rate
+application_to_shortlist,3 or more,no earlier same-type rank-1,13,7,0.5385
+application_to_shortlist,3 or more,one or more earlier same-type rank-1,75,48,0.64
+application_to_shortlist,0,no earlier same-type rank-1,37,12,0.3243
+application_to_shortlist,1-2,one or more earlier same-type rank-1,13,6,0.4615
+application_to_shortlist,3 or more,school type not stated,4,2,0.5
+application_to_shortlist,1-2,school type not stated,1,0,0.0
+application_to_shortlist,0,school type not stated,1,1,1.0

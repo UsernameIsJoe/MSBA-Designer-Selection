@@ -1,0 +1,7 @@
+comparison,difference,difference_low,difference_high
+prior_wins minus equal_probability,-0.0511,-0.1503,0.0522
+"prior_wins minus prior_wins,prior_same_wins",0.0061,-0.0102,0.0219
+"prior_wins,prior_same_wins minus shrunk_win_rate",-0.0279,-0.1288,0.0706
+"prior_wins minus prior_wins,wins_previous_5y",0.0015,-0.0007,0.0039
+shrunk_win_rate minus equal_probability,-0.0293,-0.0567,-0.0011
+"prior_wins,prior_same_wins minus prior_wins,prior_same_wins,staff_51_200,staff_201_plus,boston_hq,ma_outside",0.0104,-0.0097,0.0317

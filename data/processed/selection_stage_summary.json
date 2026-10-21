@@ -1,0 +1,100 @@
+{
+  "field": {
+    "projects_with_an_interview_list": 27,
+    "completed_rankings": 23,
+    "unfinished_rankings": 4,
+    "no_interview_rankings": 1,
+    "sole_applicant_projects": 1,
+    "median_applicants": 5.0,
+    "mean_applicants": 5.33,
+    "min_applicants": 3,
+    "max_applicants": 9,
+    "median_interview_list": 3.0,
+    "two_firm_interview_lists": 7,
+    "three_firm_interview_lists": 18,
+    "four_firm_interview_lists": 2,
+    "projects_that_interviewed_every_applicant": 4,
+    "raw_spelling_mismatches": 9,
+    "finalists_missing_from_applicants": 0
+  },
+  "historical_unranked_lists": {
+    "firm_rows": 543,
+    "posted_lists": 185,
+    "list_kinds": {
+      "unranked_applicants": 535,
+      "interview_list": 7,
+      "qualified_applicant": 1
+    }
+  },
+  "shortlist_excess": {
+    "projects": 22,
+    "excess": 0.1155,
+    "excess_low": 0.0461,
+    "excess_high": 0.1848
+  },
+  "rank_excess": {
+    "projects": 19,
+    "excess": 0.2484,
+    "excess_low": 0.1319,
+    "excess_high": 0.3298
+  },
+  "selective_shortlist_rate": {
+    "stage": "application_to_shortlist",
+    "group_family": "overall",
+    "group": "projects that did not interview everyone",
+    "rows": 131,
+    "successes": 63,
+    "projects": 23,
+    "rate": 0.4809,
+    "rate_low": 0.4286,
+    "rate_high": 0.5385,
+    "wilson_low": 0.3971,
+    "wilson_high": 0.5658
+  },
+  "zero_prior_shortlist": {
+    "stage": "application_to_shortlist",
+    "group_family": "sensitivity",
+    "group": "stored id, no earlier rank-1",
+    "rows": 38,
+    "successes": 13,
+    "projects": 22,
+    "rate": 0.3421,
+    "rate_low": 0.2222,
+    "rate_high": 0.4857,
+    "wilson_low": 0.2121,
+    "wilson_high": 0.5011
+  },
+  "zero_prior_shortlist_if_lookalikes_credited": {
+    "stage": "application_to_shortlist",
+    "group_family": "sensitivity",
+    "group": "lookalike history credited, no earlier rank-1",
+    "rows": 34,
+    "successes": 11,
+    "projects": 20,
+    "rate": 0.3235,
+    "rate_low": 0.1875,
+    "rate_high": 0.48,
+    "wilson_low": 0.1913,
+    "wilson_high": 0.4916
+  },
+  "rows_whose_prior_wins_change_if_lookalikes_are_credited": 4,
+  "selective_shortlist_excess": {
+    "projects": 19,
+    "excess": 0.1338,
+    "excess_low": 0.0516,
+    "excess_high": 0.2081
+  },
+  "shortlist_without_disqualified": {
+    "stage": "application_to_shortlist",
+    "group_family": "sensitivity",
+    "group": "disqualified applicants removed",
+    "rows": 142,
+    "successes": 76,
+    "projects": 27,
+    "rate": 0.5352,
+    "rate_low": 0.4679,
+    "rate_high": 0.6136,
+    "wilson_low": 0.4533,
+    "wilson_high": 0.6152
+  }
+}

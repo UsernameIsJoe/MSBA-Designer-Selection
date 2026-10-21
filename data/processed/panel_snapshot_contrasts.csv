@@ -1,0 +1,9 @@
+earlier_era,later_era,metric,later_minus_earlier,low,high,earlier_competitions,later_competitions
+2007-2009,2010-2012,two_firm_share,0.0244,-0.0667,0.1154,30,52
+2007-2009,2010-2012,incumbent_excess,-0.1379,-0.4275,0.1727,16,27
+2010-2012,2013-2017,two_firm_share,-0.0071,-0.0901,0.0633,52,79
+2010-2012,2013-2017,incumbent_excess,0.1403,-0.1184,0.3777,27,22
+2013-2017,2018-2024,two_firm_share,0.1766,0.0818,0.2815,79,88
+2013-2017,2018-2024,incumbent_excess,-0.0388,-0.2526,0.1781,22,32
+2018-2024,2025-2026,two_firm_share,-0.0189,-0.1894,0.1742,88,24
+2018-2024,2025-2026,incumbent_excess,0.1812,-0.0438,0.3735,32,10

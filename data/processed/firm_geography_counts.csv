@@ -1,0 +1,7 @@
+category,label,firms,finalist_rows,rank1_results
+boston_hq,Boston headquarters,14,225,68
+ma_outside_boston,Massachusetts headquarters outside Boston,13,281,127
+out_of_state_boston_branch,"Out-of-state headquarters, Boston branch open",2,36,11
+out_of_state_no_branch,"Out-of-state headquarters, no Boston office",5,61,23
+out_of_state_branch_undated,"Out-of-state headquarters, branch timing unknown",3,36,11
+unknown,Unknown,41,149,32
