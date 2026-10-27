@@ -1,0 +1,16 @@
+label,chosen_dial,term,weight,weight_at_chosen_dial,typical_step
+Earlier rank-1 results,1.5,prior_wins,0.0823,0.1234,0.2196
+Earlier rank-1 results on the same grade,0.75,prior_grade_wins,0.2227,0.167,0.1733
+Earlier finalist appearances,0.0,prior_finals,-0.0141,-0.0,-0.1058
+No earlier appearance in this archive,1.5,newcomer,-0.5982,-0.8973,-0.2186
+Earlier rank-1 results,0.5,prior_wins,0.1038,0.0519,0.2771
+Earlier rank-1 results on the same grade,0.5,prior_grade_wins,0.1953,0.0976,0.152
+Earlier finalist appearances,0.5,prior_finals,-0.0521,-0.0261,-0.3922
+No earlier appearance in this archive,0.5,newcomer,-0.6398,-0.3199,-0.2338
+Earlier rank-1 results,0.5,prior_wins,0.1808,0.0904,0.4826
+Earlier rank-1 results on the same grade,0.5,prior_grade_wins,0.239,0.1195,0.186
+Earlier finalist appearances,0.5,prior_finals,-0.0613,-0.0306,-0.4607
+No earlier appearance in this archive,0.5,newcomer,-0.7182,-0.3591,-0.2625
+prior_wins_x_field,0.5,prior_wins_x_field,0.2096,0.1048,0.2631
+prior_wins_x_time,0.5,prior_wins_x_time,0.2068,0.1034,0.1856
+prior_wins_x_high,0.5,prior_wins_x_high,-0.0212,-0.0106,-0.0348

@@ -1,0 +1,7 @@
+label,chosen_dial,fit_competitions,validation_competitions,test_competitions,equal_log_loss,full_log_loss,chosen_log_loss,chosen_gain,chosen_gain_low,chosen_gain_high,full_gain,full_gain_low,full_gain_high,chosen_named_the_winner,full_named_the_winner
+Earlier rank-1 results,1.5,120,54,99,1.014321,0.949428,0.963155,0.0512,-0.0508,0.147,0.0649,-0.002,0.1313,0.4949,0.4949
+Earlier rank-1 results on the same grade,0.75,120,54,99,1.014321,0.941767,0.948147,0.0662,0.0157,0.1204,0.0726,0.0045,0.1395,0.3838,0.3838
+Earlier finalist appearances,0.0,120,54,99,1.014321,1.056573,1.014321,0.0,0.0,0.0,-0.0423,-0.066,-0.017,0.0,0.2525
+No earlier appearance in this archive,1.5,120,54,99,1.014321,1.01388,1.018001,-0.0037,-0.04,0.0294,0.0004,-0.024,0.0222,0.0101,0.0101
+Four history items together,0.5,120,54,99,1.014321,0.948703,0.955994,0.0583,0.0169,0.1016,0.0656,-0.02,0.1473,0.4848,0.4848
+Stored seven-term specification,0.5,120,54,99,1.014321,1.16584,0.970328,0.044,-0.0815,0.1545,-0.1515,-0.418,0.0824,0.4949,0.4949

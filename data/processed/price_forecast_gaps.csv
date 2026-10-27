@@ -1,0 +1,13 @@
+window,rule,competitions,log_loss_improvement,log_loss_low,log_loss_high,brier_improvement,brier_low,brier_high,first_selection_id,last_selection_id
+fit_2012_2018,proportional,105,-0.042,-0.1807,0.0927,0.0021,-0.0246,0.0287,s_2012-01-10-p-ma-r-a-nock-e-g-molin-school-newburyport-2012-final,s_2018-12-04-p-fitchburg-crocker-elementary-school-2018-final
+fit_2012_2018,square_root,105,0.0328,-0.0392,0.1017,0.0109,-0.0058,0.0268,s_2012-01-10-p-ma-r-a-nock-e-g-molin-school-newburyport-2012-final,s_2018-12-04-p-fitchburg-crocker-elementary-school-2018-final
+fit_2012_2018,train_minimum,105,0.0363,-0.015,0.0871,0.0105,-0.0018,0.022,s_2012-01-10-p-ma-r-a-nock-e-g-molin-school-newburyport-2012-final,s_2018-12-04-p-fitchburg-crocker-elementary-school-2018-final
+fit_2012_2018,shrunk_rate,105,-0.0217,-0.1019,0.0591,-0.0017,-0.0198,0.0172,s_2012-01-10-p-ma-r-a-nock-e-g-molin-school-newburyport-2012-final,s_2018-12-04-p-fitchburg-crocker-elementary-school-2018-final
+test_2019_2026,proportional,99,0.0068,-0.133,0.142,0.0083,-0.0237,0.0372,s_2019-01-08-p-orange-dexter-park-elementary-school-2019-final,s_2026-09-22-p-natick-memorial-elementary-school-2026-chart-final-ranking
+test_2019_2026,square_root,99,0.0681,-0.0026,0.1383,0.0187,0.0015,0.0362,s_2019-01-08-p-orange-dexter-park-elementary-school-2019-final,s_2026-09-22-p-natick-memorial-elementary-school-2026-chart-final-ranking
+test_2019_2026,train_minimum,99,0.0643,0.0157,0.1112,0.0174,0.004,0.0297,s_2019-01-08-p-orange-dexter-park-elementary-school-2019-final,s_2026-09-22-p-natick-memorial-elementary-school-2026-chart-final-ranking
+test_2019_2026,shrunk_rate,99,0.0358,-0.0386,0.1074,0.0144,-0.0069,0.0342,s_2019-01-08-p-orange-dexter-park-elementary-school-2019-final,s_2026-09-22-p-natick-memorial-elementary-school-2026-chart-final-ranking
+describe_2012_2026,proportional,204,-0.0184,-0.1169,0.0747,0.0051,-0.0146,0.0264,s_2012-01-10-p-ma-r-a-nock-e-g-molin-school-newburyport-2012-final,s_2026-09-22-p-natick-memorial-elementary-school-2026-chart-final-ranking
+describe_2012_2026,square_root,204,0.0499,-0.0016,0.1005,0.0147,0.0028,0.0261,s_2012-01-10-p-ma-r-a-nock-e-g-molin-school-newburyport-2012-final,s_2026-09-22-p-natick-memorial-elementary-school-2026-chart-final-ranking
+describe_2012_2026,train_minimum,204,0.0499,0.0143,0.0842,0.0139,0.0052,0.0226,s_2012-01-10-p-ma-r-a-nock-e-g-molin-school-newburyport-2012-final,s_2026-09-22-p-natick-memorial-elementary-school-2026-chart-final-ranking
+describe_2012_2026,shrunk_rate,204,0.0062,-0.0492,0.0594,0.0061,-0.0067,0.0194,s_2012-01-10-p-ma-r-a-nock-e-g-molin-school-newburyport-2012-final,s_2026-09-22-p-natick-memorial-elementary-school-2026-chart-final-ranking

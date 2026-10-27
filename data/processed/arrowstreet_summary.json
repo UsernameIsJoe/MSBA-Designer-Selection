@@ -1,0 +1,32 @@
+{
+  "arrowstreet": {
+    "firm_id": "f_e546323383",
+    "firm_name": "Arrowstreet, Inc.",
+    "lists": 20,
+    "rank1": 8,
+    "expected_rank1": 7.0,
+    "excess_wins": 1.0,
+    "excess_per_list": 0.05,
+    "excess_low": -0.1417,
+    "excess_high": 0.2583
+  },
+  "peer_firms": 9,
+  "peer_window": "15-25 lists",
+  "peers_with_higher_excess": 1,
+  "experience": {
+    "lists": 20,
+    "lists_with_a_more_experienced_firm": 13,
+    "those_won_by_a_more_experienced_firm": 6,
+    "those_won_by_arrowstreet": 4,
+    "more_experienced_win_rate": 0.4615,
+    "more_experienced_win_rate_low": 0.2308,
+    "more_experienced_win_rate_high": 0.6923,
+    "lists_where_arrowstreet_had_the_most_wins": 3,
+    "arrowstreet_wins_when_leader": 3,
+    "leader_win_rate": null,
+    "leader_win_rate_low": null,
+    "leader_win_rate_high": null
+  },
+  "team_rows": 3,
+  "team_rank1": 0
+}

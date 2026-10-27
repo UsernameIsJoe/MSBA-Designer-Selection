@@ -82,7 +82,11 @@ Project-level facts such as year or grade do not, by themselves, choose a winner
 - `reports/04_selection_stages.md` — Phase 4 conversion from the 2025–2026 applicant lists to interview lists and rank 1.
 - `reports/05_panel_history.md` — Phase 5 audit of the inferred panel snapshots and the published rankings in the years each snapshot covers.
 - `reports/06_project_performance.md` — Phase 6 feasibility of using public cost files as a performance history.
-- `reports/MSBA_RESEARCH_SYNTHESIS.md` — findings from Phases 1 through 6, with what the files leave open.
+- `reports/07_local_contrasts.md` — district incumbents, the 2025–2026 cost band, and the near-duplicate spelling recount.
+- `reports/08_arrowstreet.md` — Arrowstreet’s rank-1 results against the seats it held, and against firms with a similar number of lists.
+- `reports/09_price_calibration.md` — a within-list price from earlier rank-1 counts, its calibration, and a walk-forward exponent.
+- `reports/10_weight_dial.md` — how far the history weights should be turned up from an equal chance.
+- `reports/MSBA_RESEARCH_SYNTHESIS.md` — findings from Phases 1 through 6, the later contrasts, and the price note, with what the files leave open.
 
 ## Findings so far
 
@@ -102,7 +106,11 @@ The inferred DSP roster is five carried snapshots, not a ballot and not an atten
 
 The public designer cost chart is a one-page graphic of average schematic direct-building cost per square foot. The dollar value for each firm is a drawn line, not a number in the text. The capital-planning sheets have project columns, and the current schematic files are labeled as of the June 2026 Board meeting, with a warning that bids and amendments can change the figures. A schematic budget exists only after the designer was selected for that project. Four rankings in the model sample are dated after that June 2026 label. No performance model was fit. The preselection cost range already on the 2025–2026 meeting chart is a project-size band, not a record of how an earlier school turned out.
 
-Rebuild the market tables with `python scripts/build_market_structure.py`, the firm-characteristic tables with `python scripts/build_firm_characteristics.py`, the incumbency tables with `python scripts/build_incumbency.py`, the stage tables with `python scripts/build_selection_stages.py`, and the panel-snapshot tables with `python scripts/build_panel_history.py`. The pipeline command above still refits the winner models and refreshes `reports/research_report.md`. The dashboard was left as the winner-model terminal from the 2026-10-20 pipeline run.
+The stored logit uses its history weights at full strength and, on the rankings from 2019 on, loses to an equal chance. A dial fit through 2015 and set on 2016–2018 finds two settings that do beat an equal chance on that later window: same-grade wins, and the four history items used at half strength. Scoring a firm on how often it has been a finalist makes the forecast worse. The extra adjustments for list length, year, and high school do not earn a place. Detail is in `reports/10_weight_dial.md`.
+
+From 2012, 185 of 204 rankings have a single firm with strictly the most earlier rank-1 results. That firm is placed first on 94 of them, 15.1 points above its share of the seats (8.0 to 21.9). Turning the same counts into a proportional price overstates the favorite: finalists priced under 20% are placed first 22.9% of the time, and finalists priced from 50% to 65% are placed first 41.3% of the time. An exponent of 0.35, chosen on 2012–2018 only, beats an equal chance on the 99 rankings from 2019 on by 0.064 log-loss points (0.016 to 0.111). The proportional price does not. The softer price's edge over the stored shrunk win rate includes zero. Detail is in `reports/09_price_calibration.md`.
+
+Rebuild the market tables with `python scripts/build_market_structure.py`, the firm-characteristic tables with `python scripts/build_firm_characteristics.py`, the incumbency tables with `python scripts/build_incumbency.py`, the stage tables with `python scripts/build_selection_stages.py`, the panel-snapshot tables with `python scripts/build_panel_history.py`, the price tables with `python scripts/build_price_calibration.py`, and the weight dial with `python scripts/build_weight_dial.py`. The pipeline command above still refits the winner models and refreshes `reports/research_report.md`. The dashboard was left as the winner-model terminal from the 2026-10-20 pipeline run.
 
 ## Layout
 

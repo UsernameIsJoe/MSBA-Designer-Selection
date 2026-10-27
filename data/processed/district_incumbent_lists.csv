@@ -1,0 +1,32 @@
+selection_id,selection_date,district,school_name,n_finalists,n_incumbents,incumbent_share,incumbent_ranked_first,winner_firm_id,winner_name,incumbent_names,mixed,winner_prior_wins
+s_2015-01-13-p-billerica-memorial-high-school-2015-final,2015-01-13,Billerica,Memorial High School,3,1,0.3333,0,f_dac2822d39,Perkins + Will,"Symmes Maini & McKee Associates, Inc.",1,0
+s_2015-05-19-p-quincy-reay-e-sterling-middle-school-2015-final,2015-05-19,Quincy,Reay E. Sterling Middle School,3,1,0.3333,1,f_282401311f,Ai3 Architects LLC,Ai3 Architects LLC,0,4
+s_2016-08-23-p-worcester-south-high-community-school-2016-final,2016-08-23,Worcester,South High Community School,3,1,0.3333,1,f_db80c70a7f,"Lamoureux Pagano & Associates, Inc.","Lamoureux Pagano & Associates, Inc.",0,7
+s_2017-05-23-p-foxborough-mabelle-m-burrell-elementary-school-2017-final,2017-05-23,Foxborough,Mabelle M. Burrell Elementary School,3,1,0.3333,1,f_5bb0de6098,"Kaestle Boos Associates, Inc.","Kaestle Boos Associates, Inc.",0,3
+s_2017-07-25-p-marblehead-elbridge-gerry-school-2017-final,2017-07-25,Marblehead,Elbridge Gerry School,3,1,0.3333,0,f_34bdcec244,"Raymond Design Associates, Inc.","JCJ Architecture, PC",0,3
+s_2017-08-22-p-springfield-brightwood-elementary-school-2017-final,2017-08-22,Springfield,Brightwood Elementary School,3,1,0.3333,0,f_30d6babd99,"DiNisco Design, Inc.","Drummey Rosane Anderson, Inc.",0,7
+s_2017-10-24-p-arlington-arlington-high-school-2017-final,2017-10-24,Arlington,Arlington High School,3,1,0.3333,1,f_e3a453551d,"HMFH Architects, Inc.","HMFH Architects, Inc.",0,12
+s_2019-02-12-p-springfield-william-n-deberry-elementary-school-2019-final,2019-02-12,Springfield,William N. DeBerry Elementary School,3,2,0.6667,1,f_30d6babd99,"DiNisco Design, Inc.","DiNisco Design, Inc.; Drummey Rosane Anderson, Inc.",0,9
+s_2019-03-26-p-worcester-doherty-memorial-high-school-2019-final,2019-03-26,Worcester,Doherty Memorial High School,3,1,0.3333,1,f_db80c70a7f,"Lamoureux Pagano & Associates, Inc.","Lamoureux Pagano & Associates, Inc.",0,10
+s_2019-10-15-p-andover-west-elementary-school-2019-final,2019-10-15,Andover,West Elementary School,3,1,0.3333,1,f_e47b019976,"Symmes Maini & McKee Associates, Inc.","Symmes Maini & McKee Associates, Inc.",0,15
+s_2020-08-04-p-peabody-william-a-welch-sr-elementary-school-2020-final,2020-08-04,Peabody,William A. Welch Sr Elementary School,3,1,0.3333,1,f_30d6babd99,"DiNisco Design, Inc.","DiNisco Design, Inc.",1,10
+s_2020-12-01-p-webster-bartlett-jr-sr-high-school-2020-final,2020-12-01,Webster,Bartlett Jr/ Sr High School,3,1,0.3333,0,f_998e5c2e75,"Flansburgh Associates, Inc.","Dore & Whittier Architects, Inc.",0,8
+s_2022-05-17-p-haverhill-whittier-regional-vocational-technical-high-school-2022-final,2022-05-17,Haverhill,Whittier Regional Vocational Technical High School,3,1,0.3333,0,f_fdca913eb7,"JCJ Architecture, PC","Dore & Whittier Architects, Inc.",0,6
+s_2022-08-02-p-hopkinton-hopkinton-elmwood-elementary-school-2022-final,2022-08-02,Hopkinton,Hopkinton Elmwood Elementary School,3,1,0.3333,0,f_5e68feabfd,Perkins Eastman,"Drummey Rosane Anderson, Inc.",0,3
+s_2022-08-16-p-newton-newton-countryside-elementary-school-2022-final,2022-08-16,Newton,Newton Countryside Elementary School,3,1,0.3333,1,f_30d6babd99,"DiNisco Design, Inc.","DiNisco Design, Inc.",0,12
+s_2022-09-13-p-lynn-lynn-pickering-middle-school-2022-final,2022-09-13,Lynn,Lynn Pickering Middle School,2,1,0.5,1,f_34bdcec244,"Raymond Design Associates, Inc.","Raymond Design Associates, Inc.",0,7
+s_2022-09-13-p-new-bedford-new-bedford-john-b-devalles-elementary-school-2022-final,2022-09-13,New Bedford,New Bedford John B. DeValles Elementary School,3,1,0.3333,1,f_7b5bae9929,"Turowski2 Architecture, Inc.","Turowski2 Architecture, Inc.",0,5
+s_2022-11-01-p-stoughton-stoughton-south-elementary-school-2022-final,2022-11-01,Stoughton,Stoughton South Elementary School,3,1,0.3333,1,f_9b0a94bec8,"Drummey Rosane Anderson, Inc.","Drummey Rosane Anderson, Inc.",1,18
+s_2022-11-15-p-dedham-dedham-oakdale-elementary-school-2022-final,2022-11-15,Dedham,Dedham Oakdale Elementary School,3,1,0.3333,0,f_87097bdfc4,"Jonathan Levi Architects, LLC","Dore & Whittier Architects, Inc.",0,3
+s_2022-11-29-p-scituate-hatherly-elementary-school-2022-final,2022-11-29,Scituate,Hatherly Elementary School,3,1,0.3333,1,f_0a77379ca5,"Dore & Whittier Architects, Inc.","Dore & Whittier Architects, Inc.",0,15
+s_2023-03-28-p-wilmington-wildwood-elementary-school-2023-final,2023-03-28,Wilmington,Wildwood Elementary School,2,1,0.5,1,f_0a77379ca5,"Dore & Whittier Architects, Inc.","Dore & Whittier Architects, Inc.",0,16
+s_2023-12-05-p-millis-millis-high-school-2023-final,2023-12-05,Millis,Millis High School,3,1,0.3333,1,f_5d25998af5,"Tappé Associates, Inc.","Tappé Associates, Inc.",0,12
+s_2025-02-25-p-marlborough-richer-es-2025-chart-final-ranking,2025-02-25,Marlborough,Richer ES,3,1,0.3333,1,f_db80c70a7f,"Lamoureux Pagano & Associates, Inc.","Lamoureux Pagano & Associates, Inc.",0,12
+s_2025-05-20-p-needham-pollard-ms-2025-chart-final-ranking,2025-05-20,Needham,Pollard MS,3,1,0.3333,0,f_e3a453551d,"HMFH Architects, Inc.","Dore & Whittier Architects, Inc.",0,17
+s_2025-08-12-p-springfield-gerena-es-2025-application-ranking-no-interview,2025-08-12,Springfield,Gerena ES,3,1,0.3333,1,f_30d6babd99,"DiNisco Design, Inc.","DiNisco Design, Inc.",1,15
+s_2026-03-10-p-boston-shaw-taylor-es-2026-chart-final-ranking,2026-03-10,Boston,Shaw-Taylor ES,3,1,0.3333,1,f_e546323383,"Arrowstreet, Inc.","Arrowstreet, Inc.",1,7
+s_2026-03-24-p-everett-everett-hs-2026-chart-final-ranking,2026-03-24,Everett,Everett HS,3,1,0.3333,0,f_5e68feabfd,Perkins Eastman,"Mount Vernon Group Architects, Inc.",0,5
+s_2026-04-07-p-worcester-burncoat-senior-hs-2026-chart-final-ranking,2026-04-07,Worcester,Burncoat Senior HS,3,1,0.3333,1,f_db80c70a7f,"Lamoureux Pagano & Associates, Inc.","Lamoureux Pagano & Associates, Inc.",0,13
+s_2026-05-05-p-haverhill-john-g-whittier-ms-2026-chart-final-ranking,2026-05-05,Haverhill,John G. Whittier MS,3,1,0.3333,1,f_0a77379ca5,"Dore & Whittier Architects, Inc.","Dore & Whittier Architects, Inc.",0,18
+s_2026-09-08-p-plymouth-hedge-elementary-school-2026-chart-final-ranking,2026-09-08,Plymouth,Hedge Elementary School,3,1,0.3333,1,f_282401311f,Ai3 Architects LLC,Ai3 Architects LLC,1,13
+s_2026-09-22-p-natick-memorial-elementary-school-2026-chart-final-ranking,2026-09-22,Natick,Memorial Elementary School,3,1,0.3333,1,f_282401311f,Ai3 Architects LLC,Ai3 Architects LLC,1,14

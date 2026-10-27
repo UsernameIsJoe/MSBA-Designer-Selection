@@ -1,0 +1,88 @@
+{
+  "eval_start": 2012,
+  "test_start": 2019,
+  "base": 0.5,
+  "draws": 2000,
+  "seed": 20261020,
+  "described_rankings": 204,
+  "described_finalists": 588,
+  "fit_rankings": 105,
+  "test_rankings": 99,
+  "alpha": 0.35,
+  "alpha_train_log_loss": 1.043485,
+  "favorite": {
+    "lists": 185,
+    "rank1": 94,
+    "rank1_rate": 0.5081,
+    "mean_seat": 0.3577,
+    "excess": 0.1505,
+    "excess_low": 0.0797,
+    "excess_high": 0.2194,
+    "by_field_size": {
+      "2": {
+        "lists": 29,
+        "rank1": 20,
+        "rank1_rate": 0.6897,
+        "mean_seat": 0.5,
+        "excess": 0.1897,
+        "excess_low": 0.0172,
+        "excess_high": 0.3621
+      },
+      "3": {
+        "lists": 152,
+        "rank1": 72,
+        "rank1_rate": 0.4737,
+        "mean_seat": 0.3333,
+        "excess": 0.1404,
+        "excess_low": 0.0614,
+        "excess_high": 0.2193
+      },
+      "4": {
+        "lists": 4,
+        "rank1": 2,
+        "rank1_rate": 0.5,
+        "mean_seat": 0.25,
+        "excess": 0.25,
+        "excess_low": -0.25,
+        "excess_high": 0.75
+      }
+    }
+  },
+  "place_when_not_first": {
+    "three_firm_favorites": 152,
+    "three_firm_losses": 80,
+    "favorite_second": 44,
+    "favorite_last": 36,
+    "share_second_given_loss": 0.55,
+    "share_low": 0.4353,
+    "share_high": 0.6548,
+    "four_firm_favorites": 4,
+    "upset_lists_unique_second": 66,
+    "upset_wins_by_second": 38,
+    "upset_rate": 0.5758,
+    "upset_low": 0.4545,
+    "upset_high": 0.697,
+    "upset_lists_tied_second": 14
+  },
+  "priced_at_least_60_and_lost": 43,
+  "priced_at_least_75": 29,
+  "priced_at_least_75_and_lost": 8,
+  "no_unique_favorite": 19,
+  "firm_days_on_two_lists": 3,
+  "test_versus_shrunk_rate": {
+    "estimate": 0.0285,
+    "low": -0.0389,
+    "high": 0.0967,
+    "n": 99,
+    "rule": "train_minimum",
+    "baseline": "shrunk_rate"
+  },
+  "test_versus_square_root": {
+    "estimate": 0.0038,
+    "low": -0.0169,
+    "high": 0.0233,
+    "n": 99,
+    "rule": "square_root",
+    "baseline": "train_minimum"
+  }
+}

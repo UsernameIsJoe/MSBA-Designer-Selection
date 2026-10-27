@@ -1,0 +1,12 @@
+firm_a,firm_b,firm_a_id,firm_b_id,joint_venture_line,status,in_spelling_pool
+"Symmes Maini & McKee Associates, Inc.","Symmes Maini McKee Associates, Inc.",f_e47b019976,f_e2de53261e,0,resolved,1
+Miller Dyer Spears Inc.,Miller Dyer Spears Inc./Sasaki,f_f3754461b4,f_248d030051,1,resolved,0
+"Taylor & Burns, Inc.",Taylor & Burns Architects,f_26c0d80ab5,f_0f81d44a36,0,resolved,1
+Perkins Eastman,Perkins Eastman DPC,,f_75500d30ac,0,ambiguous,0
+LaVallee Brensinger Architects,LaVallee Brensinger,f_b7c042c2cf,f_09a27e457b,0,resolved,1
+"Lamoureaux, Pagano & Associates, Inc.",Lamoureaux Pagano Associates Architects,f_8de622fc91,f_4f8f1c626c,0,resolved,1
+"Caolo & Bieniek Associates, Inc.","Caolo Bieniek Associates, Inc.",f_e2e2819afa,f_e5ca9b4311,0,resolved,1
+CBT/Childs Bertman Tseckares Inc.,"CBT/Childs Bertram Tseckares, Inc.",f_643459c5db,f_70690af3e0,0,resolved,1
+"William Rawn Associates, Architects, Inc.","William Rawn Associates Architects, Inc. w/ Arrowstreet",f_428da017c5,f_dbf5f944ac,1,resolved,0
+"William Rawn Associates, Architects, Inc.","William Rawn Associations, Architects, Inc.",f_428da017c5,f_c50e90c627,0,resolved,1
+"Machado and Silvetti Associates, LLC","Machado Silvetti Associates, LLC",f_09c9ae5963,f_514f30b12e,0,resolved,1

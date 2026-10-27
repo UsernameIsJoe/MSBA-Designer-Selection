@@ -1,0 +1,5 @@
+band,experience,cut,applicants,interviewed,projects,rate,rate_low,rate_high,wilson_low,wilson_high
+midpoint under $100 million,no earlier rank-1 result,all interview lists,16,6,9,0.375,0.1429,0.6154,0.1848,0.6136
+midpoint under $100 million,one or more earlier rank-1 results,all interview lists,41,22,10,0.5366,0.42,0.6667,0.3875,0.6794
+midpoint $100 million or more,no earlier rank-1 result,all interview lists,20,7,13,0.35,0.1765,0.5294,0.1812,0.5671
+midpoint $100 million or more,one or more earlier rank-1 results,all interview lists,65,41,17,0.6308,0.5256,0.762,0.5092,0.7377

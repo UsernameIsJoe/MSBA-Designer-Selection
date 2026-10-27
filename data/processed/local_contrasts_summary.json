@@ -1,0 +1,46 @@
+{
+  "district": {
+    "rankings_from_2012": 204,
+    "districts_from_2012": 166,
+    "repeat_districts": 32,
+    "same_day_district_rankings": 1,
+    "lists_with_incumbent": 31,
+    "lists_excluding_no_interview": 30,
+    "incumbent_wins": 22,
+    "win_rate": 0.7097,
+    "win_rate_low": 0.5484,
+    "win_rate_high": 0.871,
+    "mean_seat_share": 0.3548,
+    "excess": 0.3549,
+    "excess_low": 0.1936,
+    "excess_high": 0.5054,
+    "mixed_lists": 68,
+    "mixed_with_incumbent": 7,
+    "mixed_excess": null,
+    "mixed_excess_low": null,
+    "mixed_excess_high": null,
+    "mixed_stopped": true,
+    "excess_excluding_no_interview": 0.3445,
+    "excess_excluding_no_interview_low": 0.1834,
+    "excess_excluding_no_interview_high": 0.4945
+  },
+  "spelling": {
+    "stored_first_rank1": 16,
+    "still_first_after_spelling_pool": 15,
+    "still_first_after_all_flagged_pairs": 14,
+    "spelling_pairs_pooled": 8,
+    "joint_lines_left_out": 2,
+    "unresolved_pairs": 1
+  },
+  "cost": {
+    "primary_cut": "midpoint of the printed range, $100 million",
+    "zero_prior_difference_high_minus_low": -0.025,
+    "difference_low": -0.339,
+    "difference_high": 0.257,
+    "projects_that_interviewed_everyone": 4,
+    "selective_difference": -0.0556,
+    "selective_difference_low": -0.3458,
+    "selective_difference_high": 0.2173,
+    "disqualified_excluded": 2
+  }
+}

@@ -1,0 +1,43 @@
+dial,validation_log_loss,competitions,label
+0.0,1.066397,54,Earlier rank-1 results
+0.25,1.041818,54,Earlier rank-1 results
+0.5,1.021402,54,Earlier rank-1 results
+0.75,1.005181,54,Earlier rank-1 results
+1.0,0.993124,54,Earlier rank-1 results
+1.25,0.98514,54,Earlier rank-1 results
+1.5,0.981084,54,Earlier rank-1 results
+0.0,1.066397,54,Earlier rank-1 results on the same grade
+0.25,1.057269,54,Earlier rank-1 results on the same grade
+0.5,1.051572,54,Earlier rank-1 results on the same grade
+0.75,1.049312,54,Earlier rank-1 results on the same grade
+1.0,1.050437,54,Earlier rank-1 results on the same grade
+1.25,1.054844,54,Earlier rank-1 results on the same grade
+1.5,1.062386,54,Earlier rank-1 results on the same grade
+0.0,1.066397,54,Earlier finalist appearances
+0.25,1.07486,54,Earlier finalist appearances
+0.5,1.08411,54,Earlier finalist appearances
+0.75,1.094136,54,Earlier finalist appearances
+1.0,1.104925,54,Earlier finalist appearances
+1.25,1.116464,54,Earlier finalist appearances
+1.5,1.128738,54,Earlier finalist appearances
+0.0,1.066397,54,No earlier appearance in this archive
+0.25,1.061221,54,No earlier appearance in this archive
+0.5,1.056752,54,No earlier appearance in this archive
+0.75,1.052953,54,No earlier appearance in this archive
+1.0,1.049789,54,No earlier appearance in this archive
+1.25,1.047217,54,No earlier appearance in this archive
+1.5,1.045198,54,No earlier appearance in this archive
+0.0,1.066397,54,Four history items together
+0.25,1.051884,54,Four history items together
+0.5,1.046187,54,Four history items together
+0.75,1.04865,54,Four history items together
+1.0,1.058552,54,Four history items together
+1.25,1.075171,54,Four history items together
+1.5,1.097819,54,Four history items together
+0.0,1.066397,54,Stored seven-term specification
+0.25,1.042445,54,Stored seven-term specification
+0.5,1.039583,54,Stored seven-term specification
+0.75,1.056035,54,Stored seven-term specification
+1.0,1.089344,54,Stored seven-term specification
+1.25,1.136842,54,Stored seven-term specification
+1.5,1.195999,54,Stored seven-term specification

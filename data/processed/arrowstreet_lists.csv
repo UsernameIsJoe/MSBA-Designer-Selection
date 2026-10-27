@@ -1,0 +1,21 @@
+selection_date,district,school_name,category,n_finalists,arrowstreet_prior_wins,arrowstreet_ranked_first,firms_with_more_prior_wins,more_experienced_names,winner_name,winner_had_more_prior_wins,arrowstreet_unique_leader,other_firms
+2010-11-02,Brookline,Heath Elementary School,elementary,3,0,0,0,,Miller Dyer Spears Inc.,0,0,Maryann Thompson Architects; Miller Dyer Spears Inc.
+2015-09-15,Bourne,James F. Peebles Elementary School,elementary,3,0,0,2,"Flansburgh Associates, Inc.; Jonathan Levi Architects, LLC","Flansburgh Associates, Inc.",1,0,"Flansburgh Associates, Inc.; Jonathan Levi Architects, LLC"
+2015-12-15,Ipswich,Winthrop Elementary School,elementary,3,0,0,2,"Design Partnership of Cambridge, Inc.; OMR Architects, Inc.","Design Partnership of Cambridge, Inc.",1,0,"Design Partnership of Cambridge, Inc.; OMR Architects, Inc."
+2016-04-26,Boston,Boston Arts Academy,unknown,3,0,1,0,,"Arrowstreet, Inc.",0,0,"Perkins Eastman DPC; Schwartz/Silver Architects, Inc."
+2016-07-12,Lowell,Lowell High School,high,3,1,0,0,,Perkins Eastman DPC,0,0,Perkins + Will; Perkins Eastman DPC
+2016-12-06,MA),Hildreth Elementary School (Harvard,elementary,3,1,1,2,"Miller Dyer Spears Inc.; OMR Architects, Inc.","Arrowstreet, Inc.",0,0,"Miller Dyer Spears Inc.; OMR Architects, Inc."
+2016-12-06,MA),Tisbury Elementary School (Tisbury,elementary,3,1,0,2,"Flansburgh Associates, Inc.; Turowski2 Architecture, Inc.","Turowski2 Architecture, Inc.",1,0,"Flansburgh Associates, Inc.; Turowski2 Architecture, Inc."
+2017-10-24,Arlington,Arlington High School,high,3,2,0,1,"HMFH Architects, Inc.","HMFH Architects, Inc.",1,0,"Finegold Alexander Architects, Inc.; HMFH Architects, Inc."
+2018-08-07,Acton,C.T. Douglas Elementary School,elementary,3,2,1,1,"Dore & Whittier Architects, Inc.","Arrowstreet, Inc.",0,0,"Dore & Whittier Architects, Inc.; Perkins + Will"
+2019-11-05,Medfield,Dale Street Elementary School,elementary,3,3,1,1,"Raymond Design Associates, Inc.","Arrowstreet, Inc.",0,0,"CBT/Childs Bertman Tseckares Inc.; Raymond Design Associates, Inc."
+2019-12-06,Swampscott,Hadley Elementary School,elementary,3,4,0,1,"JCJ Architecture, PC",LaVallee Brensinger Architects,0,0,"JCJ Architecture, PC; LaVallee Brensinger Architects"
+2022-08-02,Hopkinton,Hopkinton Elmwood Elementary School,elementary,3,4,0,1,"Drummey Rosane Anderson, Inc.",Perkins Eastman,0,0,"Drummey Rosane Anderson, Inc.; Perkins Eastman"
+2022-08-16,Newton,Newton Countryside Elementary School,elementary,3,4,0,1,"DiNisco Design, Inc.","DiNisco Design, Inc.",1,0,"DiNisco Design, Inc.; Jonathan Levi Architects, LLC"
+2022-11-15,Dedham,Dedham Oakdale Elementary School,elementary,3,4,0,1,"Dore & Whittier Architects, Inc.","Jonathan Levi Architects, LLC",0,0,"Dore & Whittier Architects, Inc.; Jonathan Levi Architects, LLC"
+2023-04-25,Quincy,Squantum Elementary School,elementary,2,4,1,0,,"Arrowstreet, Inc.",0,1,Miller Dyer Spears Inc.
+2023-12-19,Southborough,Margaret A. Neary Elementary School,elementary,3,5,1,1,"Lamoureux Pagano & Associates, Inc.","Arrowstreet, Inc.",0,0,"Lamoureux Pagano & Associates, Inc.; Studio G Architects, Inc."
+2025-01-28,Swansea,Joseph Case Jr. HS,high,3,6,0,0,,"Finegold Alexander Architects, Inc.",0,0,"Finegold Alexander Architects, Inc.; Kaestle Boos Associates, Inc."
+2025-05-20,Needham,Pollard MS,middle,3,6,0,2,"Dore & Whittier Architects, Inc.; HMFH Architects, Inc.","HMFH Architects, Inc.",1,0,"Dore & Whittier Architects, Inc.; HMFH Architects, Inc."
+2025-11-18,Dighton-Rehoboth,Dighton ES,elementary,2,6,1,0,,"Arrowstreet, Inc.",0,1,S/L/A/M Collaborative
+2026-03-10,Boston,Shaw-Taylor ES,elementary,3,7,1,0,,"Arrowstreet, Inc.",0,1,"CBT/Childs Bertman Tseckares Inc.; Machado and Silvetti Associates, LLC"

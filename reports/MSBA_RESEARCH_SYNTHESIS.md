@@ -58,6 +58,14 @@ Near-duplicate firm names that were left unmerged, including Flansburg Architect
 
 The dashboard still presents the winner-model terminal generated on 2026-10-20. It was not rebuilt. Rebuilding it with the pipeline would refit the stored models and overwrite the generated model note. The phase reports are the record of the later work.
 
+## F. A price on the published order
+
+**A price proportional to earlier rank-1 counts is too sharp, and a softer exponent chosen on earlier years beats an equal chance later.** From 2012, 185 of 204 lists have one firm strictly ahead on earlier rank-1 counts. That firm is placed first on 94 of them, 15.1 points above its seat share (8.0 to 21.9). On the 588 finalist rows, a proportional price under 20% is placed first 22.9% of the time (gap +12.8 points, 6.8 to 18.8), and a price from 50% to 65% is placed first 41.3% of the time (gap −16.0 points, −26.8 to −4.7). Exponent 0.35 minimizes log loss on the 105 rankings from 2012 through 2018. On the 99 rankings from 2019 on it beats an equal chance by 0.064 log-loss points (0.016 to 0.111). Exponent 1 does not. The softer price's gain over the stored shrunk rate includes zero. When the favorite loses a three-firm list, second place and last place are not separated (44 second and 36 last out of 80; the interval on the second-place share includes one half). Detail is in `reports/09_price_calibration.md`. The stored winner model was not refit.
+
+## G. How hard to weight the history
+
+**Same-grade wins earn a weight. The four history items earn a weight only at half strength. Appearances on their own make the forecast worse.** The stored logit uses its weights at full strength and loses to an equal chance on the rankings from 2019 on (1.077 against 1.014). Weights fit through 2015, with the strength chosen on 2016–2018, change that. Same-grade rank-1 results at three-quarter strength beat an equal chance on the 99 later rankings by 0.066 log-loss points (0.016 to 0.120). The four history items at half strength beat it by 0.058 (0.017 to 0.102). Full strength of those four does not: the interval includes zero. A weight on earlier finalist appearances, used alone, is worse than an equal chance by 0.042 (0.017 to 0.066). The stored extras for list length, year, and high school, even at half strength, are not resolved. Detail is in `reports/10_weight_dial.md`. The stored winner model was not refit.
+
 ## Where the detail lives
 
 | Question | Report |
@@ -69,3 +77,7 @@ The dashboard still presents the winner-model terminal generated on 2026-10-20. 
 | Application, interview, and rank 1 on the 2025–2026 chart | `reports/04_selection_stages.md` |
 | Roster snapshots | `reports/05_panel_history.md` |
 | Why cost files were not used as performance | `reports/06_project_performance.md` |
+| District incumbents, chart cost bands, spelling pairs | `reports/07_local_contrasts.md` |
+| Arrowstreet against its own seat share | `reports/08_arrowstreet.md` |
+| Within-list prices and the later-window forecast | `reports/09_price_calibration.md` |
+| How far to turn the history weights up from an equal chance | `reports/10_weight_dial.md` |
